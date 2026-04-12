@@ -1,34 +1,34 @@
-// #include <stdio.h>
+#include <stdio.h>
 
-// int main() {
-//     int a;
-//     scanf("%d", &a);
+int main() {
+    int a;
+    scanf("%d", &a);
 
-//     // Check even or odd
-//     if (a % 2 == 0) {
-//         printf("%d is even number\n", a);
-//     } else {
-//         printf("%d is odd number\n", a);
-//     }
+    // Check even or odd
+    if (a % 2 == 0) {
+        printf("%d is even number\n", a);
+    } else {
+        printf("%d is odd number\n", a);
+    }
 
-//     return 0;
-// }
+    return 0;
+}
 
-// #include <stdio.h>
+#include <stdio.h>
 
-// int main() {
-//     int num;
-//     scanf("%d", &num);
+int main() {
+    int num;
+    scanf("%d", &num);
 
-//     // Check positive or negative number
-//     if (num > 0) {
-//         printf("%d is positive number\n", num);
-//     } else {
-//         printf("%d is negative number\n", num);
-//     }
+    // Check positive or negative number
+    if (num > 0) {
+        printf("%d is positive number\n", num);
+    } else {
+        printf("%d is negative number\n", num);
+    }
 
-//     return 0;
-// }
+    return 0;
+}
 
 
 // Explain if else ladder
