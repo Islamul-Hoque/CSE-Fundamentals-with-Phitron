@@ -1,4 +1,4 @@
-#include <stdio.h>
+// #include <stdio.h>
 // int main(){
     
 //     // for(int i = 1; i >= 1; i++){ // infinity loop
@@ -7,7 +7,7 @@
 //     return 0;
 // }
 
-
+// #include <stdio.h>
 // int main()
 // {
 //     for(int i=0; i<=10; i++)
@@ -17,6 +17,7 @@
 //     printf("%d", i);
 // }
 
+// #include <stdio.h>
 // int main()
 // {
 //     int i=0, j=0;
@@ -27,7 +28,7 @@
 //     printf("%d", j);
 // }
 
-
+#include <stdio.h>
 int main()
 {
     int i = 1;
