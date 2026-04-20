@@ -1,14 +1,14 @@
-// #include <stdio.h>
-// int main(){
-//     int n;
-//     scanf("%d", &n);
+#include <stdio.h>
+int main(){
+    int n;
+    scanf("%d", &n);
 
-//     for(int i = 1; i <= n; i++){
-//         if(i == 3 ){ 
-//             break;
-//         } 
-//         printf("%d\n", i);
-//     }
+    for(int i = 1; i <= n; i++){
+        if(i == 3 ){ 
+            break;
+        } 
+        printf("%d\n", i);
+    }
 
-//     return 0;
-// }
+    return 0;
+}
