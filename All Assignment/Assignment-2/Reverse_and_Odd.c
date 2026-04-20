@@ -1,19 +1,19 @@
-// #include <stdio.h>
+#include <stdio.h>
 
-// int main() {
-//     int N;
-//     scanf("%d", &N);
+int main() {
+    int N;
+    scanf("%d", &N);
 
-//     int A[N];
-//     for (int i = 0; i < N; i++) {
-//         scanf("%d", &A[i]);
-//     }
+    int A[N];
+    for (int i = 0; i < N; i++) {
+        scanf("%d", &A[i]);
+    }
 
-//     for (int i = N-1; i >=0; i--) {
-//         if(i % 2 == 1) {
-//             printf("%d ", A[i]);
-//         }
-//     }
+    for (int i = N-1; i >=0; i--) {
+        if(i % 2 == 1) {
+            printf("%d ", A[i]);
+        }
+    }
 
-//     return 0;
-// }
+    return 0;
+}
