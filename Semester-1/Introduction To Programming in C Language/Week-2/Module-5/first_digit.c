@@ -1,15 +1,15 @@
-// #include <stdio.h>
+#include <stdio.h>
 
-// int main() {
-//     int A;
+int main() {
+    int A;
 
-//     scanf("%d", &A); 
+    scanf("%d", &A); 
 
-//     if ((A / 1000) % 2 == 0) {
-//         printf("EVEN");
-//     } else {
-//         printf("ODD");
-//     }
+    if ((A / 1000) % 2 == 0) {
+        printf("EVEN");
+    } else {
+        printf("ODD");
+    }
 
-//     return 0;
-// }
+    return 0;
+}
