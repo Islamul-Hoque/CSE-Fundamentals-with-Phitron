@@ -1,11 +1,11 @@
-// #include <stdio.h>
+#include <stdio.h>
 
-// #define PI 3.141592653
-// int main() {
-//     double R, Area;
-//     scanf("%lf", &R);
-//     Area = PI * R * R;
+#define PI 3.141592653
+int main() {
+    double R, Area;
+    scanf("%lf", &R);
+    Area = PI * R * R;
 
-//     printf("%.9lf", Area);
-//     return 0;
-// }
+    printf("%.9lf", Area);
+    return 0;
+}
