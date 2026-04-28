@@ -57,3 +57,29 @@ It is organized week‑by‑week and module‑wise, including:
 --- 
 
 
+## 🚀 How to Run
+1. Clone the repository:
+   ```bash
+   https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron.git
+
+2. Navigate to the folder:
+   ```bash
+   cd CSE-Fundamentals-with-Phitron
+
+3. Compile and run any C file manually:
+   ```bash
+   gcc filename.c -o output
+   ./output
+
+## ⚡ Run with Input/Output Text Files
+1. C Program
+   ```bash
+   gcc filename.c -o filename.exe
+   timeout 15s ./filename.exe < input.txt > output.txt || (echo -n > output.txt && echo 'Time Limit Gone')
+
+
+2. C++ Program
+   ```bash
+   g++ filename.cpp -o filename.exe
+   timeout 15s ./filename.exe < input.txt > output.txt || (echo -n > output.txt && echo 'Time Limit Gone')
+
