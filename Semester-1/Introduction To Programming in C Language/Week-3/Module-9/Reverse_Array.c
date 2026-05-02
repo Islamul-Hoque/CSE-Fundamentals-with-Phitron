@@ -8,7 +8,7 @@ int main()
     for (int i = 0; i < n; i++)
         scanf("%d", &a[i]);
 
-    int i = 0, j = n - 1;
+    int i = 0, j = n - 1;  // j=n-1 => last index
     while (i < j)
     {
         int tem = a[i];
