@@ -1,24 +1,24 @@
 // inverted star
-#include <stdio.h>
+// #include <stdio.h>
 
-int main()
-{
-    int n;
-    scanf("%d", &n);
-    int star = n;
+// int main()
+// {
+//     int n;
+//     scanf("%d", &n);
+//     int star = n;
 
-    for (int i = 1; i <= n; i++)
-    { // for printing line
-        for (int j = 1; j <= star; j++)
-        { // for printing star
-            printf("*");
-        }
-        printf("\n");
-        star--;
-    }
+//     for (int i = 1; i <= n; i++)
+//     { // for printing line
+//         for (int j = 1; j <= star; j++)
+//         { // for printing star
+//             printf("*");
+//         }
+//         printf("\n");
+//         star--;
+//     }
 
-    return 0;
-}
+//     return 0;
+// }
 
 // others
 #include <stdio.h>
@@ -38,7 +38,8 @@ int main()
 
         for (int j = 1; j <= star; j++)
         { // for printing star
-            printf("%d", j);
+            // printf("%d", j); // Number Pattern (without space)
+            printf("%d ", j); // Pyramid Number Pattern (with space)
         }
 
         printf("\n");
