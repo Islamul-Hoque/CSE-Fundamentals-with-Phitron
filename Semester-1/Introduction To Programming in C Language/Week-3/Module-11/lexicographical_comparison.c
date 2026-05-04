@@ -29,7 +29,7 @@ int main() {
         }
     }
 
-    // build-in function
+    // build-in strcmp() function
     int value = strcmp(a,b);
     if(value > 0 ){
         printf("B is Small");

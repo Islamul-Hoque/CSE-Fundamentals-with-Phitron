@@ -1,16 +1,19 @@
-// #include <stdio.h>
-// #include <string.h>
+#include <stdio.h>
+#include <string.h>
 
-// int main()
-// {
-//     char a[101], b[101];
-//     scanf("%s %s", &a, &b);
+int main()
+{
+    char a[101], b[101];
+    scanf("%s %s", &a, &b);
 
-//     // int length_a = strlen(a);
-//     // int length_b = strlen(b);
-//     // for (int i = 0; i <= length_b; i++) a[i + length_a] = b[i];
+    // manual loop
+    int length_a = strlen(a);
+    int length_b = strlen(b);
+    for (int i = 0; i <= length_b; i++) a[i + length_a] = b[i];
 
-//     strcat(a, b);  // a= a te rakhtechi, kakre rakhtechi? b= b ke rakhtechi.
-//     printf("%s %s", a, b);
-//     return 0;
-// }
+    // build-in strcat() function
+    strcat(a, b);  // a= a te rakhtechi, kakre rakhtechi? b= b ke rakhtechi.
+    printf("%s %s", a, b);
+    return 0;
+}
+
