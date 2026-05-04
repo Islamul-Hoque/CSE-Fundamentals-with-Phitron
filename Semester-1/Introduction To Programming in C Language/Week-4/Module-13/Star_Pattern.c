@@ -1,21 +1,23 @@
-// #include <stdio.h>
+// star patterns with increasing  sequences
 
-// int main() {
-//     int n, star=1;
-//     scanf("%d", &n);
+#include <stdio.h>
 
-//     for (int i = 1; i <=n; i++) { // for printing line
-//         for (int j = 1; j<=star; j++) { // for printing star
-//             printf("*");
-//         }
-//         printf("\n");
-//         star++;
-//     }
+int main() {
+    int n, star=1;
+    scanf("%d", &n);
 
-//     return 0;
-// }
+    for (int i = 1; i <=n; i++) { // for printing line
+        for (int j = 1; j<=star; j++) { // for printing star
+            printf("*");
+        }
+        printf("\n");
+        star++;
+    }
 
+    return 0;
+}
 
+// star patterns decreasing sequences
 #include <stdio.h>
 
 int main() {
