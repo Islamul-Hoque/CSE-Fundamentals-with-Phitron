@@ -1,5 +1,4 @@
 // star patterns with increasing  sequences
-
 #include <stdio.h>
 
 int main() {
@@ -16,6 +15,7 @@ int main() {
 
     return 0;
 }
+
 
 // star patterns decreasing sequences
 #include <stdio.h>
