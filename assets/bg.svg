@@ -1,0 +1,59 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Red Glow -->
+    <radialGradient id="redGlow" cx="0.1" cy="0.1" r="1.8" fx="0.1" fy="0.1">
+      <stop offset="0%" stop-color="#520806" stop-opacity="0.9">
+        <animate attributeName="stop-opacity" values="0.9;0.95;0.9" dur="7s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#520806" stop-opacity="0.6" />
+      <stop offset="80%" stop-color="#520806" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+      <animate attributeName="cx" values="0.1;0.3;0.5;0.7;0.9;0.7;0.5;0.3;0.1" dur="24s" repeatCount="indefinite" />
+      <animate attributeName="cy" values="0.1;0.3;0.5;0.7;0.9;0.7;0.5;0.3;0.1" dur="24s" repeatCount="indefinite" />
+    </radialGradient>
+
+    <!-- Blue Glow -->
+    <radialGradient id="blueGlow" cx="0.9" cy="0.9" r="1.5" fx="0.9" fy="0.9">
+      <stop offset="0%" stop-color="#021D4A" stop-opacity="0.8" />
+      <stop offset="60%" stop-color="#021D4A" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+      <animate attributeName="cx" values="0.9;0.7;0.5;0.3;0.1;0.3;0.5;0.7;0.9" dur="26s" repeatCount="indefinite" />
+      <animate attributeName="cy" values="0.9;0.7;0.5;0.3;0.1;0.3;0.5;0.7;0.9" dur="26s" repeatCount="indefinite" />
+    </radialGradient>
+
+    <!-- Background Pattern -->
+    <pattern id="bgPattern" width="100" height="100" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="100" height="100" fill="#000000"/>
+      <line x1="0" y1="0" x2="100" y2="0" stroke="#101010" stroke-width="1"/>
+      <line x1="0" y1="20" x2="100" y2="20" stroke="#0a0a0a" stroke-width="1"/>
+      <line x1="0" y1="40" x2="100" y2="40" stroke="#101010" stroke-width="1"/>
+      <line x1="0" y1="60" x2="100" y2="60" stroke="#0a0a0a" stroke-width="1"/>
+      <line x1="0" y1="80" x2="100" y2="80" stroke="#101010" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- Background Layers -->
+  <rect width="100%" height="100%" rx="10" ry="10" fill="url(#bgPattern)" />
+  
+  <!-- 👇 এখানে শুধু dark টা soften করা হয়েছে -->
+  <rect width="100%" height="100%" rx="10" ry="10" fill="#0d0d0d" opacity="0.6" />
+  
+  <rect width="100%" height="100%" rx="10" ry="10" fill="url(#redGlow)" />
+  <rect width="100%" height="100%" rx="10" ry="10" fill="url(#blueGlow)" />
+
+<!-- Title -->
+<text x="50%" y="45%" text-anchor="middle" dominant-baseline="middle"
+      fill="white" font-size="35" font-weight="bold"
+      font-family="Montserrat, Poppins, Helvetica, Arial, sans-serif">
+  CSE-Fundamentals with Phitron
+</text>
+
+<!-- Subtitle -->
+<text x="50%" y="65%" text-anchor="middle"
+      fill="#8be9fd" font-size="16"
+      font-family="Roboto, Helvetica, Arial, sans-serif">
+  Assignments • Practice • Problem Solving
+</text>
+
+
+</svg>

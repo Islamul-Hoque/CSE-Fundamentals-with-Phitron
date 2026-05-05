@@ -1,4 +1,6 @@
-# 📘 CSE-Fundamentals-with-Phitron
+<img src="assets/bg.svg" width="100%" />
+
+<!-- # 📘 CSE-Fundamentals-with-Phitron -->
 
 ## 📚 Overview
 This repository contains **all assignments, practice codes, and module‑wise examples** from **Semester‑1 to Semester‑3** of the Phitron C Programming course.  
