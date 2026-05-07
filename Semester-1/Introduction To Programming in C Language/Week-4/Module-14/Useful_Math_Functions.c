@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <math.h>
 
-int main() {
+int main()
+{
     double n = 5.3;
     printf("Original number: %.2f\n", n);
     printf("Ceil value     : %.0f\n", ceil(n));
