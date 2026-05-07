@@ -1,0 +1,1 @@
+printf("Fun : %d\n", p);
