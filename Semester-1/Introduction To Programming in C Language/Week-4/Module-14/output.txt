@@ -1,1 +1,5 @@
-sum is 66
+0 1 2 3 4 
+16 
+x main: 20
+x sum: 20
+y sum: 20
