@@ -1,16 +1,7 @@
-10
-0 index before dereference: 10
-0 index after dereference: 100
-
-0 index before dereference: 20
-0 index after dereference: 200
-
-000000000061FE30
-000000000061FE30
-
-000000000061FE34
-000000000061FE38
-000000000061FE3C
-000000000061FE40
-000000000061FE44
-
+Fun : 000000000061FDF0
+main: 000000000061FDF0
+10 200 30 40 50 
+1 
+2 
+3 
+4 
