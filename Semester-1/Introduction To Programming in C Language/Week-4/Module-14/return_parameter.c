@@ -5,9 +5,9 @@ int sub(int num1, int num2){
     return ans;
 }
 
-int sum(int num1, int num2){
+int sum(int num1, int num2){ // with paramiter
     int ans = num1 + num2;
-    return ans;
+    return ans;  // return
 }
 
 int main(){

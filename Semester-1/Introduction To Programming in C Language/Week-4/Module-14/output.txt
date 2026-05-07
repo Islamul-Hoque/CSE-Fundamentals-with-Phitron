@@ -1,1 +1,1 @@
-Your sum is: 120
+sum is 66
