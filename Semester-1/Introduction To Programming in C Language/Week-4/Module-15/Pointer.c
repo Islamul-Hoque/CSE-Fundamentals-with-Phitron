@@ -1,3 +1,4 @@
+// * => asterisk operator 
 #include <stdio.h> // stack memory
 
 int main()
@@ -6,7 +7,7 @@ int main()
     printf("%d\n", x);
     printf("%p\n", &x);
 
-    int *ptr = &x;
+    int *ptr = &x; 
     printf("%p\n", ptr);
 
     // Pointer Address
