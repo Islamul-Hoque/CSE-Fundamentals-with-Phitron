@@ -4,7 +4,7 @@ void count(int i){
     if (i == 0) return; // condition 
 
     printf("%d\n", i);
-    count(i - 1); // increment
+    count(i - 1); // decrement
 }
 
 int main(){
