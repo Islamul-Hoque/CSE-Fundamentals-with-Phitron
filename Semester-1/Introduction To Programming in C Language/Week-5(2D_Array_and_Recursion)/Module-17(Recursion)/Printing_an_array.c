@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void print_array(int a[], int n, int i){
-    if (i == n) return;
+    if (i == n) return; // base case
 
     printf("%d ", a[i]);
     print_array(a, n, i+1);
