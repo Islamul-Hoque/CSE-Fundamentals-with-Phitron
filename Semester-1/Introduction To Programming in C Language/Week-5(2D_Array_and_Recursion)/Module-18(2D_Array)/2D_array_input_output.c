@@ -7,7 +7,7 @@ int main(){
 
     for (int i = 0; i < r; i++) {
         for (int j = 0; j < c; j++) {
-            scanf("%d ", &a[i][j]);
+            scanf("%d", &a[i][j]);
         }
     }
 
