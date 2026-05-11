@@ -1,1 +1,1 @@
-This is a square Matrix.
+This is a primary diagonal matrix
