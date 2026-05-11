@@ -15,7 +15,7 @@ int main(){
         printf("This is a col Matrix.\n");
     if (r == c)
         printf("This is a square Matrix.\n");
-    
+
     return 0;
 }
 
