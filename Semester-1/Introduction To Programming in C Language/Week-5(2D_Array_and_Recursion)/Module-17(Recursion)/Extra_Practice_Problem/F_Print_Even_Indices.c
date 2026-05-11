@@ -22,3 +22,4 @@ int main() {
     even_indices(a, n, 0);
     return 0;
 }
+
