@@ -8,10 +8,10 @@ long long int factorial(int n){
 }
 
 int main() {
-    int n;
-    scanf("%d", &n);
+    long long int n;
+    scanf("%lld", &n);
 
     long long int ans = factorial(n);
-    printf("%d", ans);
+    printf("%lld", ans);
     return 0;
 }
