@@ -15,26 +15,15 @@ It is organized week‑by‑week and module‑wise, including:
 ---
 
 <!-- # 📂 Course Structure -->
+## 📂 Structure-1 || Introduction To Programming in C Language || All Assignments 
+## 🧭 Quick Navigation  
 
-## 📂 Structure-1 || All Assignments
-  - [Assignment-1](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/All%20Assignment/Assignment-1)
-  - [Assignment-2](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/All%20Assignment/Assignment-2)
-  - [Mid Exam](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/All%20Assignment/Mid_Exam)
-- [Assignment-3](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/All%20Assignment/Assignment-3)  
-   - [Diamond Pattern (Odd/Even Line Alternation)](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Assignment-3/Pattern.c)  
-   - [Numeric Pattern (Reverse Order with Spacing)](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Assignment-3/Pattern_2.c)  
-   - [Count Before One (Return Function)](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Assignment-3/Count_Before_One.c)  
-   - [Palindrome Check (Return + Parameter)](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Assignment-3/Is_Palindrome.c)  
-   - [Even and Odd (No Return, No Parameter)](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Assignment-3/Even_and_Odd.c)
+### 📘 Assignments & Exams  [Assignment-1](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/All%20Assignment/Assignment-1) | [Assignment-2](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/All%20Assignment/Assignment-2) | [Mid Exam](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/All%20Assignment/Mid_Exam) | [Assignment-3](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/All%20Assignment/Assignment-3) | [Final Exam](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/All%20Assignment/Final-Exam)  
 
-- [Final Exam](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/All%20Assignment/Final-Exam)  
-   - [Find the Missing Number (Divisibility & Conditional Output)](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Final-Exam/Find_the_Missing_Number.c)  
-   - [Check Jadu Matrix (Diagonal 1s, Others 0s)](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Final-Exam/Jadu_Matrix.c)  
-   - [Print Last Row and Column of Matrix](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Final-Exam/Matrix_Again.c)  
-   - [Print Christmas Tree Pattern (Magical Tree)](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Final-Exam/Magical_Tree.c)  
-   - [Difference Array (Copy, Sort & Absolute Difference)](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Final-Exam/Difference_Array.c)
+### 📚 Weeks  [Week-1](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-1) | [Week-2](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-2) | [Week-3](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-3) | [Week-4](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-4) | [Week-5](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-5(2D_Array_and_Recursion))
 
-## 📂 Semester-1 || All Week
+
+## 📂 All Week & Module
 
 <!-- 1st Week -->
   - [Week-1 (Orientation)](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-1)
@@ -81,11 +70,38 @@ It is organized week‑by‑week and module‑wise, including:
 
   - Module-12 : [Mid Exam](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/All%20Assignment/Mid_Exam)
 
-<!-- Catch-Up-Week -->
-   - [Catch-Up-Week](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week)
+<!-- Catch Up Week -->
+### Catch Up Week: [Catch-Up-Week](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week)
 
-      - [Data-Type-Conditions](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Data-Type-Conditions)
-      - [Loops](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Loops)
+  - [Data-Type-Conditions :  👇](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Data-Type-Conditions)
+
+    1. Say Hello With C → [Print "Hello" message using C](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/.../A_Say_Hello_With_C.c)  
+    2. Basic Data Types → [Read and print integer, long long, char, float, double](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/.../B_Basic_Data_Types.c)  
+    3. Simple Calculator → [Perform addition, subtraction, multiplication, division](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/.../C_Simple_Calculator.c)  
+    4. Difference → [Calculate difference between two products A×B − C×D](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/.../D_Difference.c)  
+    5. Area of a Circle → [Compute circle area using πr²](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/.../E_Area_of_a_Circle.c)  
+    6. Digits Summation → [Sum last digits of two numbers](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/.../F_Digits_Summation.c)  
+    7. Summation from 1 to N → [Find sum of first N natural numbers](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/.../G_Summation_from_1_to_N.c)  
+    8. Two Numbers → [Compare two numbers and print relation](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/.../H_Two_numbers.c)  
+    9. Welcome for You with Conditions → [Check if A ≤ B and print messages](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/.../I_Welcome_for_you_with_Conditions.c)  
+    10. Multiples → [Check if one number is multiple of another](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/.../J_Multiples.c)  
+    11. Max and Min → [Find maximum and minimum among three numbers](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/.../K_Max_and_Min.c)  
+    12. The Brothers → [Check if two strings are identical](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/.../L_The_Brothers.c)  
+    13. Capital or Small or Digit → [Identify character type: uppercase, lowercase, digit](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/.../M_Capital_or_Small_or_Digit.c)  
+    14. Char → [Print next character in ASCII sequence](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/.../N_Char.c)  
+    15. Calculator → [Perform arithmetic based on operator (+ − × ÷)](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/.../O_Calculator.c)  
+    16. First Digit → [Extract and print first digit of a number](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/.../P_First_digit.c)  
+    17. Coordinates of a Point → [Determine quadrant or axis of given point](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/.../Q_Coordinates_of_a_Point.c)  
+    18. Age in Days → [Convert years, months, days into total days](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/.../R_Age_in_Days.c)  
+    19. Sort Numbers → [Sort three numbers in ascending order](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/.../T_Sort_Numbers.c)  
+    20. Float or Int → [Check if number is integer or float](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/.../U_Float_or_int.c)  
+    21. Comparison → [Compare two integers with operator > < =](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/.../V_Comparison.c)  
+    22. Mathematical Expression → [Evaluate expression and check correctness](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/.../W_Mathematical_Expression.c)  
+    23. Two Intervals → [Check overlap between two intervals](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/.../X_Two_intervals.c)  
+    24. The Last 2 Digits → [Print last two digits of product A×B](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/.../Y_The_last_2_digits.c)  
+    25. Hard Compare → [Compare A^B and C^D using logarithms to avoid overflow](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/.../Z_Hard_Compare.c)  
+
+  - [Loops](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Loops)
 
 <!-- 4th Week -->
 - [Week-4 (Nested Loop Recap, Function & Pointer)](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-4)
