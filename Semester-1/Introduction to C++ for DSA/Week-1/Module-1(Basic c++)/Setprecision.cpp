@@ -1,11 +1,11 @@
 #include <iostream>
+#include <iomanip>
 using namespace std;
 
 int main(){
-    int x;
+    double x = 123.1234567;
 
-    while (cin >> x)
-        cout << x << endl;
+    cout << fixed << setprecision(7) << x;
 
     return 0;
 }
