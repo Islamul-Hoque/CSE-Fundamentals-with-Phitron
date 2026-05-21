@@ -194,7 +194,7 @@ It is organized week‑by‑week and module‑wise, including:
 ## 📂 Structure-1 || Introduction to C++ for DSA 
 
 <!-- 1st Week -->
-  - [Week-1 (Introduction to C++)](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20to%20C%2B%2B%20for%20DSA/Week-1)
+  - Week-1 : [Introduction to C++](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20to%20C%2B%2B%20for%20DSA/Week-1)
     - Module-1 : [Basic c++](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20to%20C%2B%2B%20for%20DSA/Week-1/Module-1(Basic%20c%2B%2B))
         - [Print](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20to%20C%2B%2B%20for%20DSA/Week-1/Module-1(Basic%20c%2B%2B)/Print.cpp) 
         - [take input in C++, Typecasting](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20to%20C%2B%2B%20for%20DSA/Week-1/Module-1(Basic%20c%2B%2B)/input.cpp) 
@@ -205,6 +205,8 @@ It is organized week‑by‑week and module‑wise, including:
         - [Switch => Weak](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20to%20C%2B%2B%20for%20DSA/Week-1/Module-1(Basic%20c%2B%2B)/Switch.cpp)
         - [Switch => Even Odd](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20to%20C%2B%2B%20for%20DSA/Week-1/Module-1(Basic%20c%2B%2B)/Even_Odd_With_Switch.cpp)
         - [Switch => Vowels Consonants](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20to%20C%2B%2B%20for%20DSA/Week-1/Module-1(Basic%20c%2B%2B)/Vowels_Consonants.cpp)
+        - [Min, Max, Swap](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20to%20C%2B%2B%20for%20DSA/Week-1/Module-1(Basic%20c%2B%2B)/Min_Max_Swap.cpp)
+        - [String](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20to%20C%2B%2B%20for%20DSA/Week-1/Module-1(Basic%20c%2B%2B)/String.cpp)
 
 
 ## 🚀 How to Run
