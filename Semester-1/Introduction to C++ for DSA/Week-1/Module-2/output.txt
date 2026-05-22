@@ -1,3 +1,0 @@
-100
-Fun func:10
-main func:0
