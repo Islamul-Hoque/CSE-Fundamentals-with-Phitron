@@ -1,19 +1,19 @@
-// #include <stdio.h>
+#include <stdio.h>
 
-// int main() {
-//     int n;
-//     scanf("%d", &n);
-//     int a[n];
+int main() {
+    int n;
+    scanf("%d", &n);
+    int a[n];
 
-//     for (int i = 0; i <n; i++) scanf("%d", &a[i]);
+    for (int i = 0; i <n; i++) scanf("%d", &a[i]);
 
-//     int missing = 0;
-//     for (int i = 0; i <n; i++){
-//         if(a[i] == missing ) missing++;
-//         else if (a[i] > missing) break;
-//     }
+    int missing = 0;
+    for (int i = 0; i <n; i++){
+        if(a[i] == missing ) missing++;
+        else if (a[i] > missing) break;
+    }
 
-//     printf("%d", missing);
+    printf("%d", missing);
 
-//     return 0;
-// }
+    return 0;
+}
