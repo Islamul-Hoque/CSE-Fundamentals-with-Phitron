@@ -1,6 +1,1 @@
-100
-Fun func => x:10
-Fun func => y:101
-
-main func => x:0
-main func => y:101
+1 2 3 4 50 
