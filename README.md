@@ -227,6 +227,7 @@ It is organized week‑by‑week and module‑wise, including:
         - [Why we need dynamic object](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20to%20C%2B%2B%20for%20DSA/Week-1/Module-3(Class%20and%20Object%20in%20C%2B%2B)/Why_We_Need_Dynamic_Object.cpp)
         - [Dynamic Object](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20to%20C%2B%2B%20for%20DSA/Week-1/Module-3(Class%20and%20Object%20in%20C%2B%2B)/Dynamic_Object.cpp)
         - [Dynamic object Return from function](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20to%20C%2B%2B%20for%20DSA/Week-1/Module-3(Class%20and%20Object%20in%20C%2B%2B)/Dynamic_Object_Return_From_Function.cpp)
+        - [Sort function in C++](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20to%20C%2B%2B%20for%20DSA/Week-1/Module-3(Class%20and%20Object%20in%20C%2B%2B)/Sorting.cpp)
 
 ## 🚀 How to Run
 1. Clone the repository:
