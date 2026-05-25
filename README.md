@@ -219,6 +219,10 @@ It is organized week‑by‑week and module‑wise, including:
         - [Dynamic Array Return From Function](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20to%20C%2B%2B%20for%20DSA/Week-1/Module-2(Dynamic_Memory_Allocation)/Dynamic-Array-Return-From-Function.cpp)
         - [Increase Size of Dynamic Array](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20to%20C%2B%2B%20for%20DSA/Week-1/Module-2(Dynamic_Memory_Allocation)/Increase_Size_of_Dynamic_Array.cpp)
 
+    - Module-3 : [Class and Object in C++](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20to%20C%2B%2B%20for%20DSA/Week-1/Module-3(Class and Object in C++))
+        - [Working with class and object](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20to%20C%2B%2B%20for%20DSA/Week-1/Module-3(Class and Object in C++)/Class_and_Object.cpp)
+       
+
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash

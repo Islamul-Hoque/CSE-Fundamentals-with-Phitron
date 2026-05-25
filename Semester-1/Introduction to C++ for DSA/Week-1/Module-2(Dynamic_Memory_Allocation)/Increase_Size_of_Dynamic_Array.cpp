@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-
 int main(){
     // int a[3]; // Static
     int* a = new int [3]; // Dynamic
