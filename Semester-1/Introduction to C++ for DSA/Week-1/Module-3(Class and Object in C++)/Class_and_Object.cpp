@@ -2,7 +2,7 @@
 using namespace std;
 
 class Student {
-    public:
+    public:         // access modifiers
     char name[101];
     int roll;
     double gpa;

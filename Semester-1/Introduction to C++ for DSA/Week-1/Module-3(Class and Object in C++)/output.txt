@@ -1,2 +1,4 @@
-Rakib 10 4.5
-Jannatun Nayeem 20 4.01
+Nayeem: 20 11 3.9
+Tumpa: 20 11 3.9
+Nokib: 30 12 4.2
+Saad: 40 10 3.8
