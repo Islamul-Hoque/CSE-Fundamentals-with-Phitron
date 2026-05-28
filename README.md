@@ -2,14 +2,17 @@
 
 <!-- # 📘 CSE-Fundamentals-with-Phitron -->
 
-## 📚 Overview
-This repository contains **all assignments, practice codes, and module‑wise examples** from **Semester‑1 to Semester‑3** of the Phitron C Programming course.  
-It is organized week‑by‑week and module‑wise, including:
-- 📂 Structured modules with quizzes, practice problems, and explanations  
-- 📝 Assignments with HackerRank contest links  
-- 💻 Practice codes for loops, arrays, strings, and more  
+## 📚 Overview  
 
-👉 The goal is to maintain a clean, consistent, and professional learning archive for C programming fundamentals.
+This repository contains all **all assignments, practice codes, and module‑wise examples** from from **Semester‑1 to Semester‑3**  the **Phitron C Programming** and **Introduction to C++ for DSA** courses.  
+It is organized semester‑wise and problem‑wise, including:  
+
+- 📘 **C Programming** → Modules, Assignments, Mid Exam, Final Exam  
+- 📝 **C++ for DSA** → Week‑wise Modules, Mid Exam problems  
+- 🚀 **CodeFest Challenges** → Problem solutions with structured links  
+- 📂 **Quick Navigation** → Direct links to assignments, exams, and practice problems  
+
+👉 The goal is to maintain a clean, consistent, and professional archive of problem solutions and exam practice, helping in **fundamentals of C & C++ programming, DSA concepts, and competitive problem solving**.  
 
 ---
 
