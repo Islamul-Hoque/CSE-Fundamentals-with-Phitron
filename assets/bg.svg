@@ -48,12 +48,63 @@
   CSE-Fundamentals with Phitron
 </text>
 
-<!-- Subtitle -->
-<text x="50%" y="65%" text-anchor="middle"
-      fill="#8be9fd" font-size="16"
-      font-family="Roboto, Helvetica, Arial, sans-serif">
-  Assignments • Practice • Problem Solving
-</text>
+<!-- Subtitle Badges -->
+<g transform="translate(67.5, 125)">
+  <!-- Badge 1: C/C++ -->
+  <g transform="translate(0, 0)">
+    <rect width="95" height="32" rx="16" fill="#1e293b" stroke="#3b82f6" stroke-width="1.5" />
+    <g transform="translate(10, 6)">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#60a5fa" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+        <polyline points="4 17 10 11 4 5"></polyline>
+        <line x1="12" y1="19" x2="20" y2="19"></line>
+      </svg>
+    </g>
+    <text x="62.5" y="17" dominant-baseline="middle" fill="#f8fafc" font-size="12" font-family="Montserrat, Poppins, sans-serif" font-weight="600" text-anchor="middle">C/C++</text>
+  </g>
+
+  <!-- Badge 2: DSA -->
+  <g transform="translate(110, 0)">
+    <rect width="85" height="32" rx="16" fill="#1e1b4b" stroke="#6366f1" stroke-width="1.5" />
+    <g transform="translate(10, 6)">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#a78bfa" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="18" cy="5" r="3"></circle>
+        <circle cx="6" cy="12" r="3"></circle>
+        <circle cx="18" cy="19" r="3"></circle>
+        <line x1="8.59" y1="13.51" x2="15.42" y2="17.49"></line>
+        <line x1="15.41" y1="6.51" x2="8.59" y2="10.49"></line>
+      </svg>
+    </g>
+    <text x="57.5" y="17" dominant-baseline="middle" fill="#f8fafc" font-size="12" font-family="Montserrat, Poppins, sans-serif" font-weight="600" text-anchor="middle">DSA</text>
+  </g>
+
+  <!-- Badge 3: Competitive Programming -->
+  <g transform="translate(210, 0)">
+    <rect width="230" height="32" rx="16" fill="#450a0a" stroke="#ef4444" stroke-width="1.5" />
+    <g transform="translate(10, 6)">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#f87171" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"></path>
+        <path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"></path>
+        <path d="M4 22h16"></path>
+        <path d="M10 14.66V17c0 .55-.45 1-1 1H4v2h16v-2h-5c-.55 0-1-.45-1-1v-2.34"></path>
+        <path d="M12 2a8 8 0 0 0-8 8h16a8 8 0 0 0-8-8z"></path>
+      </svg>
+    </g>
+    <text x="130" y="17" dominant-baseline="middle" fill="#f8fafc" font-size="12" font-family="Montserrat, Poppins, sans-serif" font-weight="600" text-anchor="middle">Competitive Programming</text>
+  </g>
+
+  <!-- Badge 4: Software Development -->
+  <g transform="translate(455, 0)">
+    <rect width="210" height="32" rx="16" fill="#062f4f" stroke="#0ea5e9" stroke-width="1.5" />
+    <g transform="translate(10, 6)">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#38bdf8" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+        <rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect>
+        <line x1="8" y1="21" x2="16" y2="21"></line>
+        <line x1="12" y1="17" x2="12" y2="21"></line>
+      </svg>
+    </g>
+    <text x="120" y="17" dominant-baseline="middle" fill="#f8fafc" font-size="12" font-family="Montserrat, Poppins, sans-serif" font-weight="600" text-anchor="middle">Software Development</text>
+  </g>
+</g>
 
 
 </svg>
