@@ -1,23 +1,77 @@
 <img src="assets/bg.svg" width="100%" />
 
 <!-- # 📘 CSE-Fundamentals-with-Phitron -->
-
-
-
 <!-- ### 🧭 Quick Navigation  -->
 
-## 📚 Overview  
-![Polylinguist Stats](https://polylinguist.vercel.app/api/languages?username=Islamul-Hoque&alias=C,C++&theme=tokyonight)
+## <img src="https://img.icons8.com/color/48/about.png" height="32" align="center" /> Overview
 
-This repository contains all **all assignments, practice codes, and module‑wise examples** from from **Semester‑1 to Semester‑3**  the **Phitron C Programming** and **Introduction to C++ for DSA** courses.  
-It is organized semester‑wise and problem‑wise, including:  
+**CSE Fundamentals with Phitron** is a complete, structured archive of my coursework, assignments, exams, and projects spanning **Semester-1 to Semester-3**. It tracks my progressive journey from writing basic "Hello World" programs in C to mastering complex Data Structures, Algorithms, Competitive Programming, and advanced Software Development fields.
 
-- 📘 **C Programming** → Modules, Assignments, Mid Exam, Final Exam  
-- 📝 **C++ for DSA** → Week‑wise Modules, Mid Exam problems  
-- 🚀 **CodeFest Challenges** → Problem solutions with structured links  
-- 📂 **Quick Navigation** → Direct links to assignments, exams, and practice problems  
+---
 
-👉 The goal is to maintain a clean, consistent, and professional archive of problem solutions and exam practice, helping in **fundamentals of C & C++ programming, DSA concepts, and competitive problem solving**.  
+<!-- ## <img src="https://img.icons8.com/color/48/route.png" height="32" align="center" /> Learning Roadmap & Curriculum Flow
+
+To visualize the scope of this repository, here is the structured roadmap of all topics covered across three semesters:
+
+```mermaid
+flowchart TD
+    %% Styling Definitions
+    classDef sem1 fill:#1e293b,stroke:#3b82f6,stroke-width:2px,color:#f8fafc;
+    classDef sem2 fill:#1e1b4b,stroke:#6366f1,stroke-width:2px,color:#f8fafc;
+    classDef sem3cp fill:#450a0a,stroke:#ef4444,stroke-width:2px,color:#f8fafc;
+    classDef sem3dev fill:#062f4f,stroke:#0ea5e9,stroke-width:2px,color:#f8fafc;
+    classDef header fill:#0f172a,stroke:#475569,stroke-width:3px,color:#fbbf24,font-weight:bold;
+
+    Title("CSE Fundamentals with Phitron"):::header
+
+    %% Semester Branches (1st Level)
+    Title --> S1["Semester 1: Foundations"]:::sem1
+    Title --> S2["Semester 2: DSA Mastery"]:::sem2
+    Title --> S3["Semester 3: CP & Specializations"]:::header
+
+    %% Semester 1 Flow
+    S1 --> C_Prog["C Programming & Logic Basics<br>(Variables, Operators, Control Flow, Loops, Arrays, Strings, Pointers, Recursion)"]:::sem1
+    C_Prog --> C_Solve["Basic Problem Solving<br>(Math, Loop, Array & String problems on Online Judges)"]:::sem1
+    C_Solve --> CPP["C++ for DSA<br>(OOP Concepts, Dynamic Memory Allocation, Classes & Objects)"]:::sem1
+
+    %% Semester 2 Flow
+    S2 --> DS["Data Structures Mastery<br>(Complexity Analysis, Linked Lists, Stack, Queue, Priority Queue, Trees, BST, Heap, STL)"]:::sem2
+    DS --> ALGO["Algorithm Design & Analysis<br>(Graph Basics, BFS/DFS, Dijkstra, Bellman-Ford, Floyd-Warshall, DP, MST, DSU)"]:::sem2
+
+    %% Semester 3 Flow
+    S3 --> CP_Track["Competitive Programming Track"]:::sem3cp
+    S3 --> Dev_Track["Software Development Track"]:::sem3dev
+
+    %% CP Path
+    CP_Track --> CP1["Phase 1: CodeChef 2★ Road<br>(STL Containers, Iterators, Two Pointers, Sliding Window, Bitmasks, Number Theory, Binary Search)"]:::sem3cp
+    CP1 --> CP2["Phase 2: CodeChef 3★ & CF Pupil Road<br>(Segment Trees, DP, Backtracking, Advanced Graph, DSU, String Hashing, PBDS)"]:::sem3cp
+
+    %% Software Dev Path
+    Dev_Track --> Python["Python OOP & Projects<br>(Classes, OOP Principles, OOP Case Studies)"]:::sem3dev
+    Python --> DB["Database Systems<br>(ER Model, SQL, Integrity, Normal Forms, Indexing, PostgreSQL/MySQL)"]:::sem3dev
+    DB --> FE["AI-Frontend Dev<br>(Web Fundamentals, Modern JS, Vibe Coding, React Foundations)"]:::sem3dev
+    FE --> BE["Backend & APIs (FastAPI)<br>(RESTful APIs, Async, JWT Auth, ML Model Integration, Cloud Deployment)"]:::sem3dev
+```
+
+### <img src="https://img.icons8.com/color/48/list.png" height="28" align="center" /> Curriculum Highlights at a Glance
+
+| Phase / Semester | Focus Area | Key Concepts Covered |
+| :--- | :--- | :--- |
+| **Semester 1: Core Foundations** | **C & C++ Programming** | Syntax, Loops, Arrays, Strings, Pointers, Recursion, Object-Oriented Programming (OOP) in C++ |
+| **Semester 2: Data Structures & Algorithms** | **DSA Mastery** | Time & Space Complexity, Stack, Queue, Singly/Doubly Linked Lists, Trees (BST, Heap), Graphs (BFS, DFS, Dijkstra, Bellman-Ford, Floyd-Warshall), Dynamic Programming (Knapsack, LCS, LIS) |
+| **Semester 3: CP Specialization** | **Competitive Programming** | C++ STL, Bit Manipulation, Math & Number Theory (Sieve, Factorization), Binary Search on Answer, PBDS, Segment Trees, String Hashing |
+| **Semester 3: Software Dev** | **Full-Stack Development** | **Python OOP** (Encapsulation, Inheritance), **Databases** (SQL, ER, Indexing, PostgreSQL/MySQL), **AI-Powered Frontend** (React, JS, Vibe Coding), **Backend Dev** (FastAPI, JWT, Async, ML Model Integration, Cloud Deployment) | -->
+
+---
+
+<!-- ## <img src="https://img.icons8.com/color/48/goal--v1.png" height="32" align="center" /> Repository Goals & Objectives
+
+The primary goal of this repository is to build a highly organized, comprehensive showcase of my computer science and software engineering capability.
+
+* **Problem Solving Instincts**: Develop deep capabilities in analyzing time and space complexity, utilizing advanced data structures, and applying standard algorithms to solve complex tasks.
+* **Competitive Progression**: Actively advance through structured CP phases, solving real-world and mathematical challenges to rank up on CodeChef and Codeforces.
+* **Full-Stack Competency**: Merge software development practices with backend scalability (FastAPI), database design (PostgreSQL/MySQL), and front-end responsiveness (React) to build complete, cloud-deployable systems.
+* **Standardized Code Quality**: Maintain a clean, consistent, and professional archive of problem solutions, assignments, and projects serving as a learning roadmap. -->
 
 ---
 
