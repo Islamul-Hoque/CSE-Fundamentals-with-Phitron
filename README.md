@@ -9,7 +9,7 @@
 
 ---
 
-<!-- ## <img src="https://img.icons8.com/color/48/route.png" height="32" align="center" /> Learning Roadmap & Curriculum Flow
+## <img src="https://img.icons8.com/color/48/route.png" height="32" align="center" /> Learning Roadmap & Curriculum Flow
 
 To visualize the scope of this repository, here is the structured roadmap of all topics covered across three semesters:
 
@@ -53,7 +53,7 @@ flowchart TD
     FE --> BE["Backend & APIs (FastAPI)<br>(RESTful APIs, Async, JWT Auth, ML Model Integration, Cloud Deployment)"]:::sem3dev
 ```
 
-### <img src="https://img.icons8.com/color/48/list.png" height="28" align="center" /> Curriculum Highlights at a Glance
+<!-- ### <img src="https://img.icons8.com/color/48/list.png" height="28" align="center" /> Curriculum Highlights at a Glance
 
 | Phase / Semester | Focus Area | Key Concepts Covered |
 | :--- | :--- | :--- |
