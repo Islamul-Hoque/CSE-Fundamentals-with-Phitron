@@ -2,22 +2,22 @@
 using namespace std;
 
 int main(){
-    // manual value change 
+    // manual value change (C-style string)
     char s[10] = "Hello";
     strcpy(s, "gelo");
 
-    // build-in value change 
+    // built-in value change (C++ string class)
     string s2= "hello";
     s2 = "hi";
     cout << s << endl << s2 << endl;
 
-    // manual compare
+    // manual compare (C-style string)
     char s3[10] = "Hello";
     char s4[10] = "Hello";
     if(strcmp(s3, s4) == 0) cout << "Same" << endl;
     else cout << "Not same" << endl;
 
-    // build-in
+    // built-in compare (C++ string class)
     string x = "Hello";
     string y = "Hello bro";
     if(x ==y) cout << "Same" << endl;
