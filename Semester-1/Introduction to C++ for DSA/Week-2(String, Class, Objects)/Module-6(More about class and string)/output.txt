@@ -1,12 +1,3 @@
-I
-S
-H
-F
-A
-K
-I
-S
-H
-F
-A
-K
+5 4 3 2 1 
+5 4 3 2 1 
+KAFHSI
