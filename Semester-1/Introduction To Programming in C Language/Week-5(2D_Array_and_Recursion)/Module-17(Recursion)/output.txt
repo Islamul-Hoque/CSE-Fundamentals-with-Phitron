@@ -1,1 +1,9 @@
-Main f2 f1 
+Start of main()
+Inside first()
+
+Inside second()
+Inside third()
+
+Back to second()...
+Back to first()..
+Back to main().

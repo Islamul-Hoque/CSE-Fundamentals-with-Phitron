@@ -6,11 +6,16 @@ int main(){
     getline(cin, s);
     cout << s << endl;
 
-    // string কে word-by-word read kora
+    // string কে word-by-word read
     stringstream ss(s);
-    string word;  // main string ke word e assign korechi
-    while(ss >> word)// main string theke word niye oi word ta main string theke remove kore dibe.
-        cout << word << endl;
 
+    string word; 
+    int count =0;
+    while(ss>> word){ // প্রতিবার (ss >> word) করলে পরবর্তী word পাওয়া যায়
+            cout << word << endl;
+            count++;
+        }
+
+    cout << "Total word: " << count << endl;
     return 0;
 }
