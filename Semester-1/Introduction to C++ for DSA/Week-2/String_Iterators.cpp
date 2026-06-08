@@ -17,7 +17,7 @@ int main(){
         cout << s[i] << endl;
 
     // using Iterators
-    for (string:: iterator it = s.begin(); it < s.end(); it++) 
+    for (auto it = s.begin(); it < s.end(); it++) // string:: iterator or auto
         cout << *it << endl;
 
     return 0;
