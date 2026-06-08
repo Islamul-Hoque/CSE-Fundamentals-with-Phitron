@@ -1,5 +1,1 @@
-s: Hello Word
-s1: Hello Word
-s2: Hello Wo
-t(s3, 8)=> rd
-s4(8, 'A')=> hhhhhhhh
+AFHIKS
