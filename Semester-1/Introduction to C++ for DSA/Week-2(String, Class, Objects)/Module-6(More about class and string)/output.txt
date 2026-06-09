@@ -1,8 +1,1 @@
-Ishfak 1 100 100
-Total marks ofIshfak = 200
-Hello from Ishfak
-
-Nayeem 1 100 100
-Total marks ofNayeem = 200
-Hello from Nayeem
-
+india1 10
