@@ -1,4 +1,4 @@
 3
-sakib 1 500
-rakib 2 200
-akib 3 300
+sakib 1 400
+rakib 2 700
+akib 3 700
