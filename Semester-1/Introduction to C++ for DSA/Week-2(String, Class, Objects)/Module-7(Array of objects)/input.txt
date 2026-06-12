@@ -1,7 +1,4 @@
-3 
-saidul hoque
-1 100
-jannatun nayeem
-2 200
-taspia khanam
-3 300
+3
+sakib 1 100
+rakib 2 200
+akib 3 300

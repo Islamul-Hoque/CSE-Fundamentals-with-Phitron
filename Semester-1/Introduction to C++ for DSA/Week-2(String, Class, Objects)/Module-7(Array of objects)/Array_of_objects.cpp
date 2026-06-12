@@ -15,11 +15,12 @@ int main(){
 
     for (int i = 0; i < n; i++) {
         cin.ignore();
+
         getline(cin, a[i].name);
         cin >> a[i].roll >> a[i].marks;
     }
 
-    for (int i = 0; i < n; i++)
+    for (int i = 0; i < n; i++) 
         cout << a[i].name << " " << a[i].roll << " " << a[i].marks << endl;
 
     return 0;
