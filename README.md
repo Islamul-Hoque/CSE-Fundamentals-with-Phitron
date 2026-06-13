@@ -393,7 +393,12 @@ The primary goal of this repository is to build a highly organized, comprehensiv
 7. `Copy dynamic object`: [demonstrate correct ways to copy values from one dynamic object to another to avoid shallow copy/pointer issues](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20to%20C%2B%2B%20for%20DSA/Week-2(String%2C%20Class%2C%20Objects)/Module-6(More%20about%20class%20and%20string)/Copy_dynamic_object.cpp)  
 8. `Quiz`: [quiz questions solving and demonstrations of object copying, string constructor, and reverse function](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20to%20C%2B%2B%20for%20DSA/Week-2(String%2C%20Class%2C%20Objects)/Module-6(More%20about%20class%20and%20string)/quiz.cpp)  
 
-### <a id="cpp-final-exam"></a>[Final Exam](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20to%20C%2B%2B%20for%20DSA/Week-2/Final-Exam)
+### <a id="cpp-final-exam"></a> 🚀 [Final Exam](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/All%20Assignment/C%2B%2B/Final%20Exam)
+1. `Replace Word` : [replace all occurrences of a target word/substring in a string with hash character (#)](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/C%2B%2B/Final%20Exam/Replace_Word.cpp)  
+2. `Find Jessica` : [find if the name "Jessica" is present in a given string/sentence](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/C%2B%2B/Final%20Exam/Find_Jessica.cpp)  
+3. `Reverse It` : [reverse the sections of students while keeping other properties intact](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/C%2B%2B/Final%20Exam/Reverse_It.cpp)  
+4. `Sort It` : [sort students by total marks in descending order, resolving ties by ID in ascending order](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/C%2B%2B/Final%20Exam/Sort_It.cpp)  
+5. `Sort It Again` : [sort students by English marks, then math marks in descending order, resolving ties by ID in ascending order](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/C%2B%2B/Final%20Exam/Sort_It_Again.cpp)  
 
 ## 🚀Road to Problem Solvers Club (XPSC) 
 ### XPSC-1 Problem Solutions
