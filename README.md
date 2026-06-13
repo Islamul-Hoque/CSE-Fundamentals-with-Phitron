@@ -159,6 +159,15 @@ The primary goal of this repository is to build a highly organized, comprehensiv
 6. `Max Min`: [find and print the maximum and minimum among three input integers](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-2/Module-5/max_min.c)  
 
 ## <img src="https://img.icons8.com/ios-filled/50/fbbf24/book.png" height="22" align="center" /> Module-6   : [Problem Solving with Loop](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-2/Module-6)
+1. `Even Numbers`: [find and print all even numbers from 1 to N, or print -1 if none exist](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-2/Module-6/B_Even_Numbers.c)  
+2. `Even Odd Positive and Negative`: [count and print even, odd, positive, and negative numbers from a given list](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-2/Module-6/C_Even_Odd_Positive_and_Negative.c)  
+3. `Fixed Password`: [check if input password matches fixed value 1999 and print Correct or Wrong](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-2/Module-6/D_Fixed_Password.c)  
+4. `Max`: [find maximum value among N input numbers](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-2/Module-6/E_Max.c)  
+5. `Multiplication Table`: [generate multiplication table for a given integer N](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-2/Module-6/F_Multiplication_table.c)  
+6. `Digits`: [print digits of a number from right to left with space separation](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-2/Module-6/Q_Digits.c)  
+7. `Pre and Post`: [demonstrate difference between prefix and postfix increment operators](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-2/Module-6/pre_and_post.c)  
+
+8. `Quiz`: [solve loop tracing, control statements, break, and continue quiz questions](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-2/Module-6/quiz.c)  
 
 ## <img src="https://img.icons8.com/fluency/48/source-code.png" height="22" align="center" />  Module-6.5 : [Practice Day 01](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-2/Practice%20Day-1(Module-6.5))
 
@@ -167,6 +176,11 @@ The primary goal of this repository is to build a highly organized, comprehensiv
 ## <img src="https://img.icons8.com/fluency/48/source-code.png" height="22" align="center" /> Module-7.5 : [Practice Day 02](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-2/Practice%20Day-1(Module-7.5))
 
 ### <img src="https://img.icons8.com/ios-filled/50/fbbf24/edit-property.png" height="22" align="center" /> <a id="assignment-2"></a>Module-8: [Assignment 02](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/All%20Assignment/C%20Programs/Assignment-2)
+1. `Say It`: [print a specific message "I Want More Assignments" N times with numbering](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/C%20Programs/Assignment-2/Say_It.c)  
+2. `Update and Print`: [update the value at index X in an array of size N and print the array in reverse order](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/C%20Programs/Assignment-2/Update_and_Print.c)  
+3. `Reverse and Odd`: [take N array elements and print the values located at odd indices in reverse order](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/C%20Programs/Assignment-2/Reverse_and_Odd.c)  
+4. `Sum Sum`: [calculate and print the sum of positive numbers and negative numbers separately from N inputs](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/C%20Programs/Assignment-2/Sum_Sum.c)  
+5. `Is It a Challenge`: [print numbers from 1 to N if N > 0, or from N to 0 if N is negative/zero](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/C%20Programs/Assignment-2/Is_It_a_Challenge.c)  
 
 <!-- 3rd Week -->
 ## <a id="week-3"></a>Week-3 :[Array and String Operations](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-3)
