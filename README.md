@@ -284,7 +284,7 @@ The primary goal of this repository is to build a highly organized, comprehensiv
 6. `Useful Math Functions`: [demonstrate useful math library functions like ceil, floor, round, sqrt, pow, and abs](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-4/Module-14/Useful_Math_Functions.c)  
 7. `Quiz`: [solve C function syntax, parameters, return types, and math library quiz questions](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-4/Module-14/quiz.c)
 
-<!-- ## <img src="https://img.icons8.com/fluency/48/source-code.png" height="22" align="center" /> Module-14.5: [Practice Day 01](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-4/Practice%20Day-1(Module-14.5))
+## <img src="https://img.icons8.com/fluency/48/source-code.png" height="22" align="center" /> Module-14.5: [Practice Day 01](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-4/Practice%20Day-1(Module-14.5))
 
 ## <img src="https://img.icons8.com/ios-filled/50/fbbf24/book.png" height="22" align="center" /> Module-15: [Pointer](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-4/Module-15)  
 1. `Pointer`: [demonstrate pointer basics, address operator, and value operator](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-4/Module-15/Pointer.c)  
@@ -296,7 +296,7 @@ The primary goal of this repository is to build a highly organized, comprehensiv
 7. `Function with String`: [pass strings to functions and calculate string length](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-4/Module-15/Function_with_string.c)  
 8. `Quiz`: [solve pointer declarations, dereferencing, pass-by-reference, and pointer arithmetic quiz questions](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-4/Module-15/Quix.c)
 
-## <img src="https://img.icons8.com/fluency/48/source-code.png" height="22" align="center" /> Module-15.5: [Practice Day 02](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-4/Practice%20Day-1(Module-15.5))
+<!-- ## <img src="https://img.icons8.com/fluency/48/source-code.png" height="22" align="center" /> Module-15.5: [Practice Day 02](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-4/Practice%20Day-1(Module-15.5))
 
 ### <a id="assignment-3"></a> <img src="https://img.icons8.com/ios-filled/50/fbbf24/edit-property.png" height="22" align="center" /> Module-16: [Assignment-3](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/All%20Assignment/C%20Programs/Assignment-3)  
 1. `Pattern`: [print a diamond pattern with alternating character lines](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/C%20Programs/Assignment-3/Pattern.c)  
