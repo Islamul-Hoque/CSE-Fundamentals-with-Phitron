@@ -206,7 +206,7 @@ The primary goal of this repository is to build a highly organized, comprehensiv
 4. `Palindrome`: [check whether a given string is a palindrome](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-3/Practice%20Day-1(Module-10.5)/I_Palindrome.c)  
 5. `Strings`: [print lengths of two strings, concatenate them, and swap their first characters](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-3/Practice%20Day-1(Module-10.5)/D_Strings.c)
 
-<!-- ## <img src="https://img.icons8.com/ios-filled/50/fbbf24/book.png" height="22" align="center" /> Module-11: [String Operations](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-3/Module-11)  
+## <img src="https://img.icons8.com/ios-filled/50/fbbf24/book.png" height="22" align="center" /> Module-11: [String Operations](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-3/Module-11)  
 1. `Lexicographical Comparison`: [perform lexicographical comparison of two strings manually and using strcmp](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-3/Module-11/lexicographical_comparison.c)  
 2. `String Concat`: [concatenate two strings using a manual loop and the built-in strcat function](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-3/Module-11/String_concat.c)  
 3. `String Copy`: [copy the contents of one string to another manually and using strcpy](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-3/Module-11/String_copy.c)
@@ -219,7 +219,7 @@ The primary goal of this repository is to build a highly organized, comprehensiv
 2. `Count Me 2`: [count the number of consonants in a given string](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/C%20Programs/Mid%20Exam/Count_Me_2.c)  
 3. `Count Me 3`: [count uppercase letters, lowercase letters, and digits in a string across multiple test cases](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/C%20Programs/Mid%20Exam/Count_Me_3.c)  
 4. `Count Me 4`: [count and print the frequency of each character in a string](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/C%20Programs/Mid%20Exam/Count_Me_4.c)  
-5. `Farmers`: [calculate the number of fewer days needed to complete a task when additional farmers are hired](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/C%20Programs/Mid%20Exam/Farmers.c) -->
+5. `Farmers`: [calculate the number of fewer days needed to complete a task when additional farmers are hired](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/C%20Programs/Mid%20Exam/Farmers.c)
 
 <!-- Catch Up Week -->
 ## <a id="catchupweek"></a>Catch Up Week: [Catch-Up-Week](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week)
