@@ -284,7 +284,7 @@ The primary goal of this repository is to build a highly organized, comprehensiv
 6. `Useful Math Functions`: [demonstrate useful math library functions like ceil, floor, round, sqrt, pow, and abs](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-4/Module-14/Useful_Math_Functions.c)  
 7. `Quiz`: [solve C function syntax, parameters, return types, and math library quiz questions](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-4/Module-14/quiz.c)
 
-## <img src="https://img.icons8.com/fluency/48/source-code.png" height="22" align="center" /> Module-14.5: [Practice Day 01](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-4/Practice%20Day-1(Module-14.5))
+<!-- ## <img src="https://img.icons8.com/fluency/48/source-code.png" height="22" align="center" /> Module-14.5: [Practice Day 01](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-4/Practice%20Day-1(Module-14.5))
 
 ## <img src="https://img.icons8.com/ios-filled/50/fbbf24/book.png" height="22" align="center" /> Module-15: [Pointer](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-4/Module-15)  
 1. `Pointer`: [demonstrate pointer basics, address operator, and value operator](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-4/Module-15/Pointer.c)  
@@ -303,7 +303,7 @@ The primary goal of this repository is to build a highly organized, comprehensiv
 2. `Pattern 2`: [print a numeric pattern of numbers in reverse order with custom spacing](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/C%20Programs/Assignment-3/Pattern_2.c)  
 3. `Count Before One`: [count how many numbers appear in an array before the number 1 is encountered](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/C%20Programs/Assignment-3/Count_Before_One.c)  
 4. `Is Palindrome`: [check whether a given number is a palindrome using parameter-passing function](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/C%20Programs/Assignment-3/Is_Palindrome.c)  
-5. `Even and Odd`: [print even and odd numbers separately using a function with no return type](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/C%20Programs/Assignment-3/Even_and_Odd.c)
+5. `Even and Odd`: [print even and odd numbers separately using a function with no return type](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/C%20Programs/Assignment-3/Even_and_Odd.c) -->
 
 <!-- 5th Week -->
 ## <a id="week-5"></a>Week-5: [2D Array and Recursion](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-5(2D_Array_and_Recursion))
