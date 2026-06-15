@@ -347,13 +347,13 @@ The primary goal of this repository is to build a highly organized, comprehensiv
 
 ## <img src="https://img.icons8.com/fluency/48/source-code.png" height="22" align="center" /> Module-19.5: [Practice Day 02](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Week-5(2D_Array_and_Recursion)/Practice%20Day-1(Module-19.5))
 
-<!-- ## <a id="final-exam"></a> <img src="https://img.icons8.com/ios-filled/50/fbbf24/edit-property.png" height="22" align="center" /> Module-20: [Final Exam](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/All%20Assignment/C%20Programs/Final-Exam)  
+## <a id="final-exam"></a> <img src="https://img.icons8.com/ios-filled/50/fbbf24/edit-property.png" height="22" align="center" /> Module-20: [Final Exam](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/All%20Assignment/C%20Programs/Final-Exam)  
 1. `Find the Missing Number`: [find the missing fourth number given the product and three other numbers](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/C%20Programs/Final-Exam/Find_the_Missing_Number.c)  
 2. `Jadu Matrix`🌟: [check if a matrix is a Jadu matrix where diagonals are 1s and other elements are 0s](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/C%20Programs/Final-Exam/Jadu_Matrix.c)  
 3. `Matrix Again`: [print the last row and last column of a given 2D matrix](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/C%20Programs/Final-Exam/Matrix_Again.c)  
 4. `Magical Tree`🌟: [print a tree pattern with a trunk of fixed height and dynamic branch size](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/C%20Programs/Final-Exam/Magical_Tree.c)  
 5. `Difference Array`🌟: [calculate and print the absolute difference between an array and its sorted copy](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/C%20Programs/Final-Exam/Difference_Array.c)  
- -->
+
 
 
 
