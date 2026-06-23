@@ -494,8 +494,3 @@ The primary goal of this repository is to build a highly organized, comprehensiv
    ```bash
    g++ filename.cpp -o filename.exe
    timeout 15s ./filename.exe < input.txt > output.txt || (echo -n > output.txt && echo 'Time Limit Gone')
-
-
-
-
-
