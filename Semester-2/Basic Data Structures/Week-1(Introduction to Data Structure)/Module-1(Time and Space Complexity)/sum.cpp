@@ -5,14 +5,15 @@
 //     int n, s =0;
 //     cin >> n;
 
-//     // Loop
+//     // Way-1: Loop ==> o(n)
 //     for (int i = 1; i <=n; i++)
 //         s+=i;
 
-//     // Formula
+//     // Way-2: Formula ==> o(1)
 //     int sum = (n*(n+1))/2;
 
-//     cout << "Using Loop =====> " << s << endl << "Using formula ==> " << sum << endl;
+//     cout << "Using Loop =====> " << s << endl 
+//     << "Using formula ==> " << sum << endl;
 
 //     return 0;
 // }
