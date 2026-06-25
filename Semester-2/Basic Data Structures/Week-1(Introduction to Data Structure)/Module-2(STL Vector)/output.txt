@@ -1,6 +1,1 @@
-V1 size: 0
-V2 size: 5
-V3 contents: 2 2 2 2 2 
-V5 copied from V4: 3 3 3 3 3 
-Array a copied into V6: 1 2 3 4 5 
-Array a copied into V7: 1 2 3 4 5 
+Iterating using range-based for loop: 10 20 30 40 50 
