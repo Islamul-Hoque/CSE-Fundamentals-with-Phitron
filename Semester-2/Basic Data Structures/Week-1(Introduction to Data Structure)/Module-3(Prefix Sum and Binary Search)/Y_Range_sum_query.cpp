@@ -22,32 +22,32 @@ int main(){
     return 0;
 }
 
-// // Optimized approach using prefix sum (O(q))
-// #include <bits/stdc++.h>
-// using namespace std;
+// Optimized approach using prefix sum (O(q))
+#include <bits/stdc++.h>
+using namespace std;
 
-// int main(){
-//     int n, q;
-//     cin >> n >> q;
-//     vector<long long int> v(n+1);
+int main(){
+    int n, q;
+    cin >> n >> q;
+    vector<long long int> v(n+1);
 
-//     for (int i = 1; i <=n; i++) 
-//         cin >> v[i];
+    for (int i = 1; i <=n; i++) 
+        cin >> v[i];
 
-//     vector<long long int> pre(n+1);
-//     pre[1] = v[1];
+    vector<long long int> pre(n+1);
+    pre[1] = v[1];
 
-//     for (int i = 1; i <=n; i++) 
-//         pre[i] = pre[i-1] + v[i];
+    for (int i = 1; i <=n; i++) 
+        pre[i] = pre[i-1] + v[i];
 
-//     while (q--){      // O(q)
-//         long long int l, r, sum =0;
-//         cin >> l >> r;
+    while (q--){      // O(q)
+        long long int l, r, sum =0;
+        cin >> l >> r;
 
-//         if(l == 1) sum = pre[r];
-//         else sum = pre[r] - pre[l-1];
+        if(l == 1) sum = pre[r];
+        else sum = pre[r] - pre[l-1];
 
-//         cout << sum << endl;
-//     }
-//     return 0;
-// }
+        cout << sum << endl;
+    }
+    return 0;
+}
