@@ -1,35 +1,34 @@
-// #include <bits/stdc++.h>
-// using namespace std;
+#include <bits/stdc++.h>
+using namespace std;
 
-// int main(){
-//     int n;
-//     cin >> n;
+int main(){
+    int n;
+    cin >> n;
 
-//     // Upper part
-//     int left_spaces = 0, middle_space = n-2;
+    // Upper part
+    int left_spaces = 0, middle_space = n-2;
 
-//     for(int i = 0; i < n/2; i++){
-//         cout << string(left_spaces, ' ') << "\\" << string(middle_space, ' ') << "/" << endl;
+    for(int i = 0; i < n/2; i++){
+        cout << string(left_spaces, ' ') << "\\" << string(middle_space, ' ') << "/" << endl;
 
-//         left_spaces++;
-//         middle_space -=2;
-//     }
+        left_spaces++;
+        middle_space -=2;
+    }
 
+    // Middle line
+    cout << string(n/2, ' ') << "X" << endl;
 
-//     // Middle line
-//     cout << string(n/2, ' ') << "X" << endl;
+    // Down part
+    int down_left_spaces = n/2 - 1, down_middle_space = 1;
+    for(int i = n/2+1; i < n; i++){
+        cout << string(down_left_spaces, ' ') << "/" << string(down_middle_space, ' ') << "\\" <<  endl;
 
-//     // Down part
-//     int down_left_spaces = n/2 - 1, down_middle_space = 1;
-//     for(int i = n/2+1; i < n; i++){
-//         cout << string(down_left_spaces, ' ') << "/" << string(down_middle_space, ' ') << "\\" <<  endl;
+        down_left_spaces--;
+        down_middle_space +=2;
+    }
 
-//         down_left_spaces--;
-//         down_middle_space +=2;
-//     }
-
-//     return 0;
-// }
+    return 0;
+}
 
 
 
