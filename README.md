@@ -467,6 +467,62 @@ The primary goal of this repository is to build a highly organized, comprehensiv
 1. `Rahim's Shopping` : [find most expensive affordable item or -1 if none](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20to%20C%2B%2B%20for%20DSA/Road%20to%20Problem%20Solvers%20Club%20(XPSC)/XPSC-1/Rahim_s_Shopping.cpp)
 2. `ZigZag Permutation` : [construct permutation with smallest numbers at odd positions and largest at even positions](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20to%20C%2B%2B%20for%20DSA/Road%20to%20Problem%20Solvers%20Club%20(XPSC)/XPSC-1/ZigZag_Permutation.cpp)
 
+<!-- semester-2 -->
+# <img src="https://img.icons8.com/folder-tree.png" height="32" align="center" /> Semester-2 
+
+## <img src="https://img.icons8.com/color/48/hierarchy.png" height="28" align="center" /> Basic Data Structures
+
+### <img src="https://img.icons8.com/color/48/calendar--v1.png" height="22" align="center" /> Weeks: [Week-1](#ds-week-1)  
+
+### <img src="https://img.icons8.com/color/48/graduation-cap.png" height="22" align="center" /> Assignments & Exams: [Assignment-1](#ds-assignment-1)  
+
+## 📂 All Week & Module
+
+<!-- week-1 -->
+## <img src="https://img.icons8.com/fluency/48/calendar.png" height="22" align="center" /> <a id="ds-week-1"></a>Week-1: [Introduction to Data Structure](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure))  
+
+<!-- Module-1 -->
+<!-- ### <img src="https://img.icons8.com/ios-filled/50/fbbf24/book.png" height="22" align="center" /> Module-1: [Time and Space Complexity](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-1(Time%20and%20Space%20Complexity))  
+1. `Best to Worst Complexity`: [analyze time complexity hierarchies and comparison scale for N = 1000](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-1(Time%20and%20Space%20Complexity)/Best_to_Worst_Complexity.txt)  
+2. `Linear Complexity O of N`: [demonstrate linear time complexity O(N) with loops](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-1(Time%20and%20Space%20Complexity)/Linear_Complexity_O_of_N.cpp)  
+4. `Logarithmic Complexity O logN`: [demonstrate logarithmic time complexity O(log N) using multiplication and division loops](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-1(Time%20and%20Space%20Complexity)/Logarithmic_Complexity_O_logN.cpp)  
+7. `Sqrt Complexity O sqrtN`: [calculate divisors of N using square root time complexity O(sqrt(N))](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-1(Time%20and%20Space%20Complexity)/Sqrt_complexity_O_sqrtN.cpp)  
+3. `Linearithmic Complexity O NlogN`: [demonstrate linearithmic time complexity O(N log N) using nested loops](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-1(Time%20and%20Space%20Complexity)/Linearithmic_Complexity_O_NlogN.cpp)  
+5. `Quadratic Complexity O NN`: [demonstrate quadratic time complexity O(N^2) using nested loops](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-1(Time%20and%20Space%20Complexity)/Quadratic_complexity_O_NN.cpp)  
+6. `Space Complexity`: [analyze space complexity examples including constant, linear, and quadratic space allocation](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-1(Time%20and%20Space%20Complexity)/Space_Complexity.cpp)  
+8. `Z Binary Search`: [solve a search query problem using linear search resulting in Time Limit Exceeded (TLE)](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-1(Time%20and%20Space%20Complexity)/Z_Binary_Search.cpp)  
+9. `Quiz`: [solutions to quiz questions tracking time and space complexity analysis](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-1(Time%20and%20Space%20Complexity)/quix.cpp)  
+10. `Sum`: [calculate summation of numbers from 1 to N using both O(N) loop and O(1) mathematical formula](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-1(Time%20and%20Space%20Complexity)/sum.cpp)  
+
+
+<!-- Module-2 -->
+### <img src="https://img.icons8.com/ios-filled/50/fbbf24/book.png" height="22" align="center" /> Module-2: [STL Vector](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-2(STL%20Vector))  
+1. `Vector Initialization`: [demonstrate various ways to initialize vectors, copy vectors, and copy arrays to vectors](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-2(STL%20Vector)/Vector_Initialization.cpp)  
+2. `Vector Capacity Functions`: [explore vector capacity functions like size(), capacity(), clear(), empty(), and resize()](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-2(STL%20Vector)/Vector_Capacity_functions.cpp)  
+3. `Vector Modifiers 1`: [modify vectors using assign(), push_back(), pop_back(), insert(), and erase()](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-2(STL%20Vector)/Vector_Modifiers_1.cpp)  
+4. `Vector Modifiers 2`: [modify vector content using replace() and find() search algorithms](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-2(STL%20Vector)/Vector_Modifiers_2.cpp)  
+5. `Vector Element Access`: [access vector elements using operator[], at(), back(), and front()](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-2(STL%20Vector)/Vector_Element_Access.cpp)  
+6. `Vector Iterators`: [traverse vectors using iterator bounds begin() and end()](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-2(STL%20Vector)/Vector_Iterators.cpp)  
+7. `Vector Input And Output`: [read values into vectors and print them using range-based loops](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-2(STL%20Vector)/Vector_Input_And_Output.cpp)  
+8. `Vector of String`: [initialize, read, and print vectors of strings using getline()](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-2(STL%20Vector)/Vector_of_String.cpp)  
+9. `Quiz`: [solutions to quiz tracing questions on STL vector operations](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-2(STL%20Vector)/quiz.cpp)  
+
+
+<!-- Module-3 -->
+### <img src="https://img.icons8.com/ios-filled/50/fbbf24/book.png" height="22" align="center" /> Module-3: [Prefix Sum and Binary Search](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-3(Prefix%20Sum%20and%20Binary%20Search))  
+1. `Y Range Sum Query`: [solve the range sum query problem using brute force O(N*Q) and optimized prefix sum O(Q) approaches](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-3(Prefix%20Sum%20and%20Binary%20Search)/Y_Range_sum_query.cpp)  
+2. `Binary Search Example`: [implement standard binary search algorithm on a sorted array](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-3(Prefix%20Sum%20and%20Binary%20Search)/Binary_Search_Example.cpp)  
+3. `Z Binary Search`: [solve search queries using linear search brute force vs binary search O(Q log N) optimized method](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-3(Prefix%20Sum%20and%20Binary%20Search)/Z_Binary_Search.cpp)  
+4. `Quiz`: [solutions to quiz tracing questions on prefix sum and binary search complexities](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-3(Prefix%20Sum%20and%20Binary%20Search)/quiz.cpp)  
+
+
+## <img src="https://img.icons8.com/ios-filled/50/fbbf24/edit-property.png" height="22" align="center" /> <a id="ds-assignment-1"></a>Module-4: [Assignment-1](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/All%20Assignment/Data%20Structures/Assignment-1)  
+1. `Duplicate`: [check if a sorted array contains any duplicate values and print YES or NO](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Data%20Structures/Assignment-1/Duplicate.cpp)  
+2. `Get Prefix Sum`: [calculate the prefix sum of an array and print the elements in reverse order](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Data%20Structures/Assignment-1/Get_Prefix_Sum.cpp)  
+3. `Insert It`: [insert the elements of a second vector into a first vector at a specified index](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Data%20Structures/Assignment-1/Insert_it.cpp)  
+4. `Printing X`: [print a symmetric X pattern using backslashes, slashes, and spaces for a given odd integer N](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Data%20Structures/Assignment-1/Printing_X.cpp)  
+5. `Sorted`: [verify whether a given array of elements is sorted in non-decreasing order across multiple test cases](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Data%20Structures/Assignment-1/Sorted.cpp)   -->
+
 
 
 ## 🚀 How to Run
