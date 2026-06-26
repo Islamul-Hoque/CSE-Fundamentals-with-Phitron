@@ -496,7 +496,7 @@ The primary goal of this repository is to build a highly organized, comprehensiv
 
 
 <!-- Module-2 -->
-<!-- ### <img src="https://img.icons8.com/ios-filled/50/fbbf24/book.png" height="22" align="center" /> Module-2: [STL Vector](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-2(STL%20Vector))  
+### <img src="https://img.icons8.com/ios-filled/50/fbbf24/book.png" height="22" align="center" /> Module-2: [STL Vector](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-2(STL%20Vector))  
 1. `Vector Initialization`: [demonstrate various ways to initialize vectors, copy vectors, and copy arrays to vectors](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-2(STL%20Vector)/Vector_Initialization.cpp)  
 2. `Vector Capacity Functions`: [explore vector capacity functions like size(), capacity(), clear(), empty(), and resize()](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-2(STL%20Vector)/Vector_Capacity_functions.cpp)  
 3. `Vector Modifiers 1`: [modify vectors using assign(), push_back(), pop_back(), insert(), and erase()](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-2(STL%20Vector)/Vector_Modifiers_1.cpp)  
@@ -505,7 +505,7 @@ The primary goal of this repository is to build a highly organized, comprehensiv
 6. `Vector Iterators`: [traverse vectors using iterator bounds begin() and end()](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-2(STL%20Vector)/Vector_Iterators.cpp)  
 7. `Vector Input And Output`: [read values into vectors and print them using range-based loops](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-2(STL%20Vector)/Vector_Input_And_Output.cpp)  
 8. `Vector of String`: [initialize, read, and print vectors of strings using getline()](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-2(STL%20Vector)/Vector_of_String.cpp)  
-9. `Quiz`: [solutions to quiz tracing questions on STL vector operations](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-2(STL%20Vector)/quiz.cpp)   -->
+9. `Quiz`: [solutions to quiz tracing questions on STL vector operations](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-2(STL%20Vector)/quiz.cpp)  
 
 
 <!-- Module-3 -->
