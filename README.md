@@ -509,11 +509,11 @@ The primary goal of this repository is to build a highly organized, comprehensiv
 
 
 <!-- Module-3 -->
-<!-- ### <img src="https://img.icons8.com/ios-filled/50/fbbf24/book.png" height="22" align="center" /> Module-3: [Prefix Sum and Binary Search](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-3(Prefix%20Sum%20and%20Binary%20Search))  
+### <img src="https://img.icons8.com/ios-filled/50/fbbf24/book.png" height="22" align="center" /> Module-3: [Prefix Sum and Binary Search](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-3(Prefix%20Sum%20and%20Binary%20Search))  
 1. `Y Range Sum Query`: [solve the range sum query problem using brute force O(N*Q) and optimized prefix sum O(Q) approaches](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-3(Prefix%20Sum%20and%20Binary%20Search)/Y_Range_sum_query.cpp)  
 2. `Binary Search Example`: [implement standard binary search algorithm on a sorted array](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-3(Prefix%20Sum%20and%20Binary%20Search)/Binary_Search_Example.cpp)  
 3. `Z Binary Search`: [solve search queries using linear search brute force vs binary search O(Q log N) optimized method](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-3(Prefix%20Sum%20and%20Binary%20Search)/Z_Binary_Search.cpp)  
-4. `Quiz`: [solutions to quiz tracing questions on prefix sum and binary search complexities](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-3(Prefix%20Sum%20and%20Binary%20Search)/quiz.cpp)   -->
+4. `Quiz`: [solutions to quiz tracing questions on prefix sum and binary search complexities](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-3(Prefix%20Sum%20and%20Binary%20Search)/quiz.cpp)  
 
 
 <!-- ## <img src="https://img.icons8.com/ios-filled/50/fbbf24/edit-property.png" height="22" align="center" /> <a id="ds-assignment-1"></a>Module-4: [Assignment-1](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/All%20Assignment/Data%20Structures/Assignment-1)  
