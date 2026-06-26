@@ -516,12 +516,12 @@ The primary goal of this repository is to build a highly organized, comprehensiv
 4. `Quiz`: [solutions to quiz tracing questions on prefix sum and binary search complexities](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-1(Introduction%20to%20Data%20Structure)/Module-3(Prefix%20Sum%20and%20Binary%20Search)/quiz.cpp)  
 
 
-<!-- ## <img src="https://img.icons8.com/ios-filled/50/fbbf24/edit-property.png" height="22" align="center" /> <a id="ds-assignment-1"></a>Module-4: [Assignment-1](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/All%20Assignment/Data%20Structures/Assignment-1)  
+ ## <img src="https://img.icons8.com/ios-filled/50/fbbf24/edit-property.png" height="22" align="center" /> <a id="ds-assignment-1"></a>Module-4: [Assignment-1](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/All%20Assignment/Data%20Structures/Assignment-1)  
 1. `Duplicate`: [check if a sorted array contains any duplicate values and print YES or NO](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Data%20Structures/Assignment-1/Duplicate.cpp)  
 2. `Get Prefix Sum`: [calculate the prefix sum of an array and print the elements in reverse order](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Data%20Structures/Assignment-1/Get_Prefix_Sum.cpp)  
 3. `Insert It`: [insert the elements of a second vector into a first vector at a specified index](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Data%20Structures/Assignment-1/Insert_it.cpp)  
 4. `Printing X`: [print a symmetric X pattern using backslashes, slashes, and spaces for a given odd integer N](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Data%20Structures/Assignment-1/Printing_X.cpp)  
-5. `Sorted`: [verify whether a given array of elements is sorted in non-decreasing order across multiple test cases](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Data%20Structures/Assignment-1/Sorted.cpp)   -->
+5. `Sorted`: [verify whether a given array of elements is sorted in non-decreasing order across multiple test cases](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Data%20Structures/Assignment-1/Sorted.cpp)  
 
 
 
