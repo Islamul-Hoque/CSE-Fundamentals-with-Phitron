@@ -24,7 +24,9 @@ int main(){
     head->next = a;
     a->next =b;
 
-    cout << head->val << " " << head->next->val << " " << head->next->next->val << endl;
+    cout << head->val << endl;
+    cout << head->next->val << endl;
+    cout << head->next->next->val << endl;
 
     return 0;
 }
