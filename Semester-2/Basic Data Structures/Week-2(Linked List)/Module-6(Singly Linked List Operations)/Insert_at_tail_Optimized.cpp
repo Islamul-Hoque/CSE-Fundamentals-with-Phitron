@@ -13,7 +13,7 @@ class Node{
     }
 };
 
-// insert a new node 
+// insert a new node at the tail using tail pointer reference
 void Insert_at_Tail(Node* &head, Node* &tail, int val){
     Node* newNode = new Node(val);
 
@@ -23,11 +23,12 @@ void Insert_at_Tail(Node* &head, Node* &tail, int val){
         return;
     }
 
+    // link new node after current tail and update tail
     tail->next = newNode;
-    tail = newNode;   // tail->next or newNode
+    tail = newNode;
 }
 
-// print all nodes
+// print all nodes of the linked list
 void Print_Linked_List(Node* head){
     Node* temp = head;
     while (temp != NULL) {
@@ -52,6 +53,8 @@ int main(){
 
     // print the linked list
     Print_Linked_List(head);
+
+    // print the current tail value
     cout << "Tail: " << tail->val << endl;
 
     return 0;
