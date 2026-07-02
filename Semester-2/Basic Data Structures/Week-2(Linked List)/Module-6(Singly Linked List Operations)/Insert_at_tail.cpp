@@ -15,7 +15,10 @@ class Node{
 void Insert_at_Tail(Node* &head, int val){
     Node* newNode = new Node(val);
 
-
+    if(head == NULL){
+        head = newNode;
+        return;
+    }
 
     Node* temp = head;
     while(temp->next != NULL){
