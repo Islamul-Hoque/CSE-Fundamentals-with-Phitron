@@ -28,20 +28,24 @@ void Insert_at_Tail(Node* &head, Node* &tail, int val){
     tail = newNode;
 }
 
-// delete node at any
+// delete node at given position (0-based index)
 void Delete_At_Any_Pos(Node* &head, int idx){
     Node* temp = head;
 
-    for (int i = 0; i <idx-1; i++) {
+    // move to node before target
+    for (int i = 0; i < idx - 1; i++) {
         temp = temp->next;
     }
 
+    // target node
     Node* deleteNode = temp->next;   
+
+    // bypass target
     temp->next = temp->next->next;
 
+    // free target
     delete deleteNode;
 }
-
 
 // print linked list
 void Print_Linked_List(Node* head){
