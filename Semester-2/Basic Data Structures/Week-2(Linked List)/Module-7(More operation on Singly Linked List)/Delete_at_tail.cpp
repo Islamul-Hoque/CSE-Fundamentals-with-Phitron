@@ -37,7 +37,7 @@ void Delete_At_Tail(Node* &head, Node* &tail, int idx){
     Node* temp = head;
 
     // move before target
-    for (int i = 0; i < idx - 1; i++) {
+    for (int i = 0; temp != NULL && i < idx - 1; i++) {
         temp = temp->next;
     }
 
