@@ -6,33 +6,37 @@ class Node{
         int val;
         Node* next;
 
-    // constructor
+    // node constructor
     Node(int val){
         this->val = val;
         this->next = NULL;
     }
 };
 
-// insert node at tail
+// insert at tail
 void Insert_at_Tail(Node* &head, Node* &tail, int val){
     Node* newNode = new Node(val);
 
-    // empty list case
+    // empty list
     if(head == NULL){
         head = newNode;
         tail = newNode;
         return;
     }
 
+    // link new node after tail
     tail->next = newNode;
+
+    // update tail pointer
     tail = newNode;
 }
 
-// delete node at tail
+
+// delete at tail
 void Delete_At_Tail(Node* &head, Node* &tail, int idx){
     Node* temp = head;
 
-    // move to node before target
+    // move before target
     for (int i = 0; i < idx - 1; i++) {
         temp = temp->next;
     }
@@ -43,12 +47,12 @@ void Delete_At_Tail(Node* &head, Node* &tail, int idx){
     // bypass target
     temp->next = temp->next->next;
 
-    // free target
+    // free + update tail
     delete deleteNode;
-    tail =temp;
+    tail = temp;
 }
 
-// print linked list
+// print list
 void Print_Linked_List(Node* head){
     Node* temp = head;
 
@@ -70,11 +74,16 @@ int main(){
         Insert_at_Tail(head, tail, val);
     }
 
+    // tail before deletion
     cout << "Tail before deletion: " << tail->val << endl;
 
+    // delete tail node
     Delete_At_Tail(head, tail, 3);
+
+    // print after deletion
     Print_Linked_List(head);
 
+    // tail after deletion
     cout << "Tail after deletion: " << tail->val << endl;
 
     return 0;
