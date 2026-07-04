@@ -69,20 +69,40 @@ The primary goal of this repository is to build a highly organized, comprehensiv
 
 
 <!-- # 📂 Course Structure -->
+<!-- Semester-1  -->
 # <img src="https://img.icons8.com/color/48/folder-tree.png" height="32" align="center" /> Semester-1 
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="28" align="center" /> Introduction To Programming in C Language
 
-### <img src="https://img.icons8.com/color/48/calendar--v1.png" height="22" align="center" /> Weeks: [Week-1](#week-1) | [Week-2](#week-2) | [Week-3](#week-3) | [Catch Up Week](#catchupweek) | [Week-4](#week-4) | [Week-5](#week-5)  
+<!-- Semester-1 || C program || Week -->
+### <img src="https://img.icons8.com/fluency/48/calendar.png" height="22" align="center" /> Weeks: [Week-1](#week-1) | [Week-2](#week-2) | [Week-3](#week-3) | [Catch Up Week](#catchupweek) | [Week-4](#week-4) | [Week-5](#week-5)  
 
-### <img src="https://img.icons8.com/color/48/graduation-cap.png" height="22" align="center" /> Assignments & Exams: [Assignment-1](#assignment-1) | [Assignment-2](#assignment-2) | [Mid Exam](#mid-exam) | [Assignment-3](#assignment-3) | [Final Exam](#final-exam) 
+<!-- Semester-1 || C program || Assignment & Exam -->
+### <img src="https://api.iconify.design/lucide:code-xml.svg?color=%238a2be2" width="22" height="22" valign="middle"> Assignments & Exams: [Assignment-1](#assignment-1) | [Assignment-2](#assignment-2) | [Mid Exam](#mid-exam) | [Assignment-3](#assignment-3) | [Final Exam](#final-exam) 
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="28" align="center" /> Introduction to C++ for DSA
 
-### <img src="https://img.icons8.com/color/48/calendar--v1.png" height="22" align="center" /> Weeks: [Week-1](#cpp-week-1) | [Week-2](#cpp-week-2)    
+<!-- Semester-1 || C++ || Week -->
+### <img src="https://img.icons8.com/fluency/48/calendar.png" height="22" align="center" /> Weeks: [Week-1](#cpp-week-1) | [Week-2](#cpp-week-2)    
 
-### <img src="https://img.icons8.com/color/48/graduation-cap.png" height="22" align="center" /> Assignments & Exams: [Mid Exam](#cpp-mid-exam) | [CodeFest-1](#cpp-CodeFest-1) | [Final Exam](#cpp-final-exam)  
+<!-- Semester-1 || C++ || Exam -->
+### <img src="https://api.iconify.design/lucide:code-xml.svg?color=%238a2be2" width="22" height="22" valign="middle"> Assignments & Exams: [Mid Exam](#cpp-mid-exam) | [CodeFest-1](#cpp-CodeFest-1) | [Final Exam](#cpp-final-exam)  
 
+
+<!-- ************************************************************************************************************************* -->
+<!-- ************************************************************************************************************************* -->
+<!-- ************************************************************************************************************************* -->
+
+<!--📂 semester-2 -->
+# <img src="https://img.icons8.com/color/48/folder-tree.png" height="32" align="center" /> Semester-2
+
+## <img src="https://img.icons8.com/color/48/tree-structure.png" height="28" align="center" /> Basic Data Structures
+
+<!-- Semester-2 || Data Structure || Week -->
+### <img src="https://img.icons8.com/fluency/48/calendar.png" height="22" align="center" /> Weeks: [Week-1](#ds-week-1) | [Week-2](#ds-week-2) | [Week-3](#ds-week-3) | [Week-4](#ds-week-4) | [Week-5](#ds-week-5) 
+
+<!-- Semester-2 || Data Structure || Assignment & Exam -->
+### <img src="https://api.iconify.design/lucide:code-xml.svg?color=%238a2be2" width="22" height="22" valign="middle"> Assignments & Exams: [Assignment-1](#ds-assignment-1) | [Assignment-2](#ds-assignment-2) | [Mid Exam](#ds-mid-exam) | [Assignment-3](#ds-assignment-3) | [Final Exam](#ds-final-exam) 
 
 
 ## 📂 All Week & Module
@@ -468,13 +488,13 @@ The primary goal of this repository is to build a highly organized, comprehensiv
 2. `ZigZag Permutation` : [construct permutation with smallest numbers at odd positions and largest at even positions](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20to%20C%2B%2B%20for%20DSA/Road%20to%20Problem%20Solvers%20Club%20(XPSC)/XPSC-1/ZigZag_Permutation.cpp)
 
 <!-- semester-2 -->
-# <img src="https://img.icons8.com/folder-tree.png" height="32" align="center" /> Semester-2 
+# <img src="https://img.icons8.com/color/48/folder-tree.png" height="32" align="center" /> Semester-2 
 
-## <img src="https://img.icons8.com/color/48/hierarchy.png" height="28" align="center" /> Basic Data Structures
+## <img src="https://img.icons8.com/color/48/tree-structure.png" height="28" align="center" /> Basic Data Structures
 
-### <img src="https://img.icons8.com/color/48/calendar--v1.png" height="22" align="center" /> Weeks: [Week-1](#ds-week-1)  
+### <img src="https://img.icons8.com/color/48/calendar--v1.png" height="22" align="center" /> Weeks: [Week-1](#ds-week-1)  | [Week-2](#ds-week-2) 
 
-### <img src="https://img.icons8.com/color/48/graduation-cap.png" height="22" align="center" /> Assignments & Exams: [Assignment-1](#ds-assignment-1)  
+### <img src="https://img.icons8.com/color/48/graduation-cap.png" height="22" align="center" /> Assignments & Exams: [Assignment-1](#ds-assignment-1) | [Assignment-2](#ds-assignment-2)  
 
 ## 📂 All Week & Module
 
@@ -562,7 +582,7 @@ The primary goal of this repository is to build a highly organized, comprehensiv
 
 
 <!-- Week-2 || Module-8 || Assignment-2-->
-## <img src="https://img.icons8.com/ios-filled/50/fbbf24/edit-property.png" height="22" align="center" /> <a id="ds-assignment-2"></a>Module-4: [Assignment-2](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/All%20Assignment/Data%20Structures/Assignment-2)  
+## <img src="https://img.icons8.com/ios-filled/50/fbbf24/edit-property.png" height="22" align="center" /> <a id="ds-assignment-2"></a>Module-8: [Assignment-2](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/All%20Assignment/Data%20Structures/Assignment-2)  
 1. `Get Difference`: [calculate the absolute difference between the maximum and minimum elements in a singly linked list](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Data%20Structures/Assignment-2/Get_Difference.cpp)  
 2. `Search`: [search for a specific value in a singly linked list and return its index, or -1 if not found](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Data%20Structures/Assignment-2/Search.cpp)  
 3. `Same to Same`: [verify if two singly linked lists are identical in terms of size and value sequence](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Data%20Structures/Assignment-2/Same_to_Same.cpp)  
