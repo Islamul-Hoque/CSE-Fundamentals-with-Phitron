@@ -550,7 +550,7 @@ The primary goal of this repository is to build a highly organized, comprehensiv
 
 
 <!-- Week-2 || Module-7 -->
-<!-- ### <img src="https://img.icons8.com/ios-filled/50/fbbf24/book.png" height="22" align="center" /> Module-7: [More operation on Singly Linked List](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-7(More%20operation%20on%20Singly%20Linked%20List)) 
+### <img src="https://img.icons8.com/ios-filled/50/fbbf24/book.png" height="22" align="center" /> Module-7: [More operation on Singly Linked List](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-7(More%20operation%20on%20Singly%20Linked%20List)) 
 
 1. `Insert at tail input`: [take inputs continuously until -1 to construct a singly linked list in O(N)](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-7(More%20operation%20on%20Singly%20Linked%20List)/Insert_at_tail_input.cpp)  
 2. `Delete at head`: [delete the head (first) node of a singly linked list and update the head pointer](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-7(More%20operation%20on%20Singly%20Linked%20List)/Delete_at_head.cpp)  
@@ -558,7 +558,7 @@ The primary goal of this repository is to build a highly organized, comprehensiv
 4. `Delete at tail`: [delete the tail node of a singly linked list and update the tail pointer](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-7(More%20operation%20on%20Singly%20Linked%20List)/Delete_at_tail.cpp)  
 5. `Linked list reverse printing`: [print the elements of a singly linked list in reverse order using recursion](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-7(More%20operation%20on%20Singly%20Linked%20List)/Linked_list_reverse_printing.cpp)  
 6. `Sort linked list`: [sort elements of a singly linked list in ascending order using selection sort](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-7(More%20operation%20on%20Singly%20Linked%20List)/Sort_linked_list.cpp)  
-7. `Quiz`: [solve quiz questions on singly linked list deletion complexities and algorithms](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-7(More%20operation%20on%20Singly%20Linked%20List)/quiz.cpp)   -->
+7. `Quiz`: [solve quiz questions on singly linked list deletion complexities and algorithms](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-7(More%20operation%20on%20Singly%20Linked%20List)/quiz.cpp)  
 
 
 <!-- Week-2 || Module-8 || Assignment-2-->
