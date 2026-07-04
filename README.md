@@ -562,12 +562,12 @@ The primary goal of this repository is to build a highly organized, comprehensiv
 
 
 <!-- Week-2 || Module-8 || Assignment-2-->
- <!-- ## <img src="https://img.icons8.com/ios-filled/50/fbbf24/edit-property.png" height="22" align="center" /> <a id="ds-assignment-2"></a>Module-4: [Assignment-2](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/All%20Assignment/Data%20Structures/Assignment-2)  
+## <img src="https://img.icons8.com/ios-filled/50/fbbf24/edit-property.png" height="22" align="center" /> <a id="ds-assignment-2"></a>Module-4: [Assignment-2](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/All%20Assignment/Data%20Structures/Assignment-2)  
 1. `Get Difference`: [calculate the absolute difference between the maximum and minimum elements in a singly linked list](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Data%20Structures/Assignment-2/Get_Difference.cpp)  
 2. `Search`: [search for a specific value in a singly linked list and return its index, or -1 if not found](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Data%20Structures/Assignment-2/Search.cpp)  
 3. `Same to Same`: [verify if two singly linked lists are identical in terms of size and value sequence](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Data%20Structures/Assignment-2/Same_to_Same.cpp)  
 4. `Queries`: [perform dynamic operations including head insertion, tail insertion, and element deletion on multiple queries](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Data%20Structures/Assignment-2/Queries.cpp)  
-5. `Remove Duplicate`: [remove duplicate values from an unsorted singly linked list using an inner-outer pointer technique](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Data%20Structures/Assignment-2/Remove_Duplicate.cpp)   -->
+5. `Remove Duplicate`: [remove duplicate values from an unsorted singly linked list using an inner-outer pointer technique](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Data%20Structures/Assignment-2/Remove_Duplicate.cpp)  
 
 
 ## 🚀 How to Run
