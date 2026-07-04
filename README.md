@@ -524,6 +524,51 @@ The primary goal of this repository is to build a highly organized, comprehensiv
 5. `Sorted`: [verify whether a given array of elements is sorted in non-decreasing order across multiple test cases](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Data%20Structures/Assignment-1/Sorted.cpp)  
 
 
+<!-- Data Structure || Week-2 -->
+<!-- week-2 -->
+## <img src="https://img.icons8.com/fluency/48/calendar.png" height="22" align="center" /> <a id="ds-week-2"></a>Week-2: [Linked List](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List))  
+
+<!-- Week-2 || Module-5 -->
+### <img src="https://img.icons8.com/ios-filled/50/fbbf24/book.png" height="22" align="center" /> Module-5: [Singly Linked List](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-5(Singly%20Linked%20List)) 
+1. `limitation of Array`: [demonstrate address continuity differences between static arrays and dynamic vectors](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-5(Singly%20Linked%20List)/limitation_of_array.cpp)  
+2. `Creating A Node`: [create and link basic nodes manually in a custom class structure](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-5(Singly%20Linked%20List)/Creating_A_Node.cpp)  
+3. `Dynamic Node`: [instantiate and link nodes dynamically using pointer references and dynamic memory allocation](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-5(Singly%20Linked%20List)/Dynamic_Node.cpp)  
+4. `Node with Constructor`: [initialize nodes with values directly using constructor-defined properties](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-5(Singly%20Linked%20List)/Node_with_Constructor.cpp)  
+5. `Printing Linked List`: [traverse and print all node values in a singly linked list sequentially](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-5(Singly%20Linked%20List)/Printing_Linked_List.cpp)  
+6. `Quiz`: [solve quiz questions covering node creation, dynamic allocation, list properties, and traversal basics](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-5(Singly%20Linked%20List)/quiz.cpp)  
+
+
+<!-- Week-2 || Module-6 -->
+<!-- ### <img src="https://img.icons8.com/ios-filled/50/fbbf24/book.png" height="22" align="center" /> Module-6: [Singly Linked List Operations](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-6(Singly%20Linked%20List%20Operations)) 
+
+1. `Reference of a pointer`: [demonstrate how pointer by reference allows modifying the original pointer variable within functions](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-6(Singly%20Linked%20List%20Operations)/Reference_of_a_pointer.cpp)  
+2. `Insert at head`: [insert a new node at the beginning (head) of a singly linked list in O(1) time](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-6(Singly%20Linked%20List%20Operations)/Insert_at_head.cpp)  
+3. `Insert at tail`: [traverse to the end of a singly linked list to insert a new node at the tail position](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-6(Singly%20Linked%20List%20Operations)/Insert_at_tail.cpp)  
+4. `Insert At Any Position`: [insert a new node at a given index position (0-indexed) inside a singly linked list](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-6(Singly%20Linked%20List%20Operations)/Insert_At_Any_Position.cpp)  
+5. `Insert at tail Optimized`: [insert a new node at the tail of a linked list in O(1) time using a tail pointer reference](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-6(Singly%20Linked%20List%20Operations)/Insert_at_tail_Optimized.cpp)  
+6. `Quiz`: [solve quiz tracing questions on pointer references, insertion algorithms, and operations' time complexities](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-6(Singly%20Linked%20List%20Operations)/quiz.cpp)   -->
+
+
+<!-- Week-2 || Module-7 -->
+<!-- ### <img src="https://img.icons8.com/ios-filled/50/fbbf24/book.png" height="22" align="center" /> Module-7: [More operation on Singly Linked List](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-7(More%20operation%20on%20Singly%20Linked%20List)) 
+
+1. `Insert at tail input`: [take inputs continuously until -1 to construct a singly linked list in O(N)](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-7(More%20operation%20on%20Singly%20Linked%20List)/Insert_at_tail_input.cpp)  
+2. `Delete at head`: [delete the head (first) node of a singly linked list and update the head pointer](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-7(More%20operation%20on%20Singly%20Linked%20List)/Delete_at_head.cpp)  
+3. `Delete at any position`: [delete a node from a specified index position in a singly linked list](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-7(More%20operation%20on%20Singly%20Linked%20List)/Delete_at_any_position.cpp)  
+4. `Delete at tail`: [delete the tail node of a singly linked list and update the tail pointer](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-7(More%20operation%20on%20Singly%20Linked%20List)/Delete_at_tail.cpp)  
+5. `Linked list reverse printing`: [print the elements of a singly linked list in reverse order using recursion](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-7(More%20operation%20on%20Singly%20Linked%20List)/Linked_list_reverse_printing.cpp)  
+6. `Sort linked list`: [sort elements of a singly linked list in ascending order using selection sort](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-7(More%20operation%20on%20Singly%20Linked%20List)/Sort_linked_list.cpp)  
+7. `Quiz`: [solve quiz questions on singly linked list deletion complexities and algorithms](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-7(More%20operation%20on%20Singly%20Linked%20List)/quiz.cpp)   -->
+
+
+<!-- Week-2 || Module-8 || Assignment-2-->
+ <!-- ## <img src="https://img.icons8.com/ios-filled/50/fbbf24/edit-property.png" height="22" align="center" /> <a id="ds-assignment-2"></a>Module-4: [Assignment-2](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/All%20Assignment/Data%20Structures/Assignment-2)  
+1. `Get Difference`: [calculate the absolute difference between the maximum and minimum elements in a singly linked list](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Data%20Structures/Assignment-2/Get_Difference.cpp)  
+2. `Search`: [search for a specific value in a singly linked list and return its index, or -1 if not found](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Data%20Structures/Assignment-2/Search.cpp)  
+3. `Same to Same`: [verify if two singly linked lists are identical in terms of size and value sequence](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Data%20Structures/Assignment-2/Same_to_Same.cpp)  
+4. `Queries`: [perform dynamic operations including head insertion, tail insertion, and element deletion on multiple queries](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Data%20Structures/Assignment-2/Queries.cpp)  
+5. `Remove Duplicate`: [remove duplicate values from an unsorted singly linked list using an inner-outer pointer technique](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Data%20Structures/Assignment-2/Remove_Duplicate.cpp)   -->
+
 
 ## 🚀 How to Run
 1. Clone the repository:

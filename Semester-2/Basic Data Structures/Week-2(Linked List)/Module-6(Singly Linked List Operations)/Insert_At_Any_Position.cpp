@@ -29,7 +29,7 @@ void Insert_at_any_position(Node* head, int idx, int val){
     temp->next = newNode;
 }
 
-// print all nodes of the linked list
+// print all nodes 
 void Print_Linked_List(Node* head){
     Node* temp = head;
     while (temp != NULL) {
@@ -39,7 +39,7 @@ void Print_Linked_List(Node* head){
 }
 
 int main(){
-    // create initial linked list with 3 nodes
+    // create initial linked list 
     Node* head = new Node(10);
     Node* a = new Node(20);
     Node* b = new Node(30);

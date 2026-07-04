@@ -6,18 +6,18 @@ class Node{
         int val;
         Node* next;
 
-    // constructor to initialize node value and next pointer
+    // constructor
     Node(int val){
         this->val = val;
         this->next = NULL;
     }
 };
 
-// function to insert a new node at the tail of the linked list
+// insert a new node at the tail 
 void Insert_at_Tail(Node* &head, int val){
     Node* newNode = new Node(val);
 
-    // handle empty list case: new node becomes head
+    // handle empty list case
     if(head == NULL){
         head = newNode;
         return;
@@ -33,7 +33,7 @@ void Insert_at_Tail(Node* &head, int val){
     temp->next = newNode;
 }
 
-// function to print all nodes of the linked list
+// print all nodes 
 void Print_Linked_List(Node* head){
     Node* temp = head;
     while (temp != NULL) {

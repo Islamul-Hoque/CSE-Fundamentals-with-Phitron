@@ -14,7 +14,7 @@ class Node{
 };
 
 // insert node at tail
-void Insert_at_Head(Node* &head, Node* &tail, int val){
+void Insert_at_Tail(Node* &head, Node* &tail, int val){
     Node* newNode = new Node(val);
 
     // empty list case
@@ -60,7 +60,7 @@ int main(){
     while(true){
         cin >> val;
         if(val == -1) break;
-        Insert_at_Head(head, tail, val);
+        Insert_at_Tail(head, tail, val);
     }
 
     Delete_At_Head(head);   // delete first node
