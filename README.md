@@ -539,14 +539,14 @@ The primary goal of this repository is to build a highly organized, comprehensiv
 
 
 <!-- Week-2 || Module-6 -->
-<!-- ### <img src="https://img.icons8.com/ios-filled/50/fbbf24/book.png" height="22" align="center" /> Module-6: [Singly Linked List Operations](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-6(Singly%20Linked%20List%20Operations)) 
+### <img src="https://img.icons8.com/ios-filled/50/fbbf24/book.png" height="22" align="center" /> Module-6: [Singly Linked List Operations](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-6(Singly%20Linked%20List%20Operations)) 
 
 1. `Reference of a pointer`: [demonstrate how pointer by reference allows modifying the original pointer variable within functions](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-6(Singly%20Linked%20List%20Operations)/Reference_of_a_pointer.cpp)  
 2. `Insert at head`: [insert a new node at the beginning (head) of a singly linked list in O(1) time](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-6(Singly%20Linked%20List%20Operations)/Insert_at_head.cpp)  
 3. `Insert at tail`: [traverse to the end of a singly linked list to insert a new node at the tail position](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-6(Singly%20Linked%20List%20Operations)/Insert_at_tail.cpp)  
 4. `Insert At Any Position`: [insert a new node at a given index position (0-indexed) inside a singly linked list](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-6(Singly%20Linked%20List%20Operations)/Insert_At_Any_Position.cpp)  
 5. `Insert at tail Optimized`: [insert a new node at the tail of a linked list in O(1) time using a tail pointer reference](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-6(Singly%20Linked%20List%20Operations)/Insert_at_tail_Optimized.cpp)  
-6. `Quiz`: [solve quiz tracing questions on pointer references, insertion algorithms, and operations' time complexities](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-6(Singly%20Linked%20List%20Operations)/quiz.cpp)   -->
+6. `Quiz`: [solve quiz tracing questions on pointer references, insertion algorithms, and operations' time complexities](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-2(Linked%20List)/Module-6(Singly%20Linked%20List%20Operations)/quiz.cpp)  
 
 
 <!-- Week-2 || Module-7 -->
