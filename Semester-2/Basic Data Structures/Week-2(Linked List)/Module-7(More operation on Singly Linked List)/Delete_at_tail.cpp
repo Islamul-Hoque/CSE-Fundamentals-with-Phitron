@@ -28,8 +28,8 @@ void Insert_at_Tail(Node* &head, Node* &tail, int val){
     tail = newNode;
 }
 
-// delete node at given position (0-based index)
-void Delete_At_Any_Pos(Node* &head, int idx){
+// delete node at tail
+void Delete_At_Tail(Node* &head, Node* &tail, int idx){
     Node* temp = head;
 
     // move to node before target
@@ -45,6 +45,7 @@ void Delete_At_Any_Pos(Node* &head, int idx){
 
     // free target
     delete deleteNode;
+    tail =temp;
 }
 
 // print linked list
@@ -69,8 +70,12 @@ int main(){
         Insert_at_Tail(head, tail, val);
     }
 
-    Delete_At_Any_Pos(head, 1);
+    cout << "Tail before deletion: " << tail->val << endl;
+
+    Delete_At_Tail(head, tail, 3);
     Print_Linked_List(head);
+
+    cout << "Tail after deletion: " << tail->val << endl;
 
     return 0;
 }
