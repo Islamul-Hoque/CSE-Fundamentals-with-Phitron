@@ -1,22 +1,22 @@
-// #include <stdio.h>
+#include <stdio.h>
 
-// void Average(double a[], int n){
-//     double sum = 0;
-//     for (int i = 0; i < n; i++)
-//         sum += a[i];
+void Average(double a[], int n){
+    double sum = 0;
+    for (int i = 0; i < n; i++)
+        sum += a[i];
 
-//     printf("%.7lf", sum/n);
-// }
+    printf("%.7lf", sum/n);
+}
 
-// int main(){
-//     int n;
-//     scanf("%d", &n);
-//     double a[n];
+int main(){
+    int n;
+    scanf("%d", &n);
+    double a[n];
 
-//     for (int i = 0; i < n; i++)
-//         scanf("%lf", &a[i]);
+    for (int i = 0; i < n; i++)
+        scanf("%lf", &a[i]);
 
-//     Average(a, n);
+    Average(a, n);
 
-//     return 0;
-// }
+    return 0;
+}
