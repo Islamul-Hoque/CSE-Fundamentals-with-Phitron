@@ -1,11 +1,11 @@
-// #include <bits/stdc++.h>
-// using namespace std;
+#include <bits/stdc++.h>
+using namespace std;
 
-// int main(){
-//     int x, y;
-//     cin >> x >> y;
+int main(){
+    int x, y;
+    cin >> x >> y;
 
-//     cout << (7-x-y) << endl;
+    cout << (7-x-y) << endl;
 
-//     return 0;
-// }
+    return 0;
+}
