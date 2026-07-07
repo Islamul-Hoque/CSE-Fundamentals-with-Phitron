@@ -1,22 +1,22 @@
-// #include <stdio.h>
-// #include <string.h>
+#include <stdio.h>
+#include <string.h>
 
-// int main() {
-//     char s[1000001];
-//     scanf("%s", &s);
+int main() {
+    char s[1000001];
+    scanf("%s", &s);
 
-//     int len = strlen(s);
+    int len = strlen(s);
 
-//     int sum = 0;
-//     for (int i = 0; i <len; i++) {
-//         // way-1
-//         sum +=s[i] - '0';   
+    int sum = 0;
+    for (int i = 0; i <len; i++) {
+        // way-1
+        sum +=s[i] - '0';   
 
-//         // Way-2
-//         sum +=s[i] - 48;   
-//     }
+        // Way-2
+        sum +=s[i] - 48;   
+    }
 
-//     printf("%d", sum);
+    printf("%d", sum);
 
-//     return 0;
-// }
+    return 0;
+}
