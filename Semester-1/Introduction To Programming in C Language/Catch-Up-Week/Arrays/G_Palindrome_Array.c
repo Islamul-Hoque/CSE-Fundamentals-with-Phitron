@@ -1,22 +1,22 @@
-// #include <stdio.h>
+#include <stdio.h>
 
-// int main(){
-//     int n;
-//     scanf("%d", &n);
+int main(){
+    int n;
+    scanf("%d", &n);
 
-//     int a[n], flag =1;
-//     for (int i = 0; i < n; i++)
-//         scanf("%d", &a[i]);
+    int a[n], flag =1;
+    for (int i = 0; i < n; i++)
+        scanf("%d", &a[i]);
 
-//     for (int i = 0, j =n-1; i < j; i++, j--){
-//         if(a[i] != a[j]) {
-//             flag = 0;
-//             break;
-//         }
-//     }
+    for (int i = 0, j =n-1; i < j; i++, j--){
+        if(a[i] != a[j]) {
+            flag = 0;
+            break;
+        }
+    }
 
-//     if(flag ==1) printf("YES");
-//     else printf("NO");
+    if(flag ==1) printf("YES");
+    else printf("NO");
 
-//     return 0;
-// }
+    return 0;
+}
