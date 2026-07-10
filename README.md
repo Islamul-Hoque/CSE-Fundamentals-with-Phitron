@@ -303,14 +303,13 @@ The primary goal of this repository is to build a highly organized, comprehensiv
 12. `Replace MinMax` 🌟: [swap the minimum and maximum elements in an array](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Arrays/M_Replace_MinMax.c)  
 
 
-
 <!-- Strings -->
-<!-- ## <img src="assets/abc.png" height="22" align="center" /> Category-4: [Strings](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Strings)  
+## <img src="assets/abc.png" height="22" align="center" /> Category-4: [Strings](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Strings)  
 1. `Compare`: [compare two strings lexicographically and print the smaller one](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Strings/C_Compare.c)  
 2. `Strings`: [print string lengths, concatenate them, and swap their first characters](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Strings/D_Strings.c)  
 3. `Count`: [calculate the sum of all digits in a given string](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Strings/E_Count.c)  
 4. `Way Too Long Words`: [abbreviate strings longer than 10 characters by replacing middle characters with count](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Strings/F_Way_Too_Long_Words.c)  
-5. `Conversion`: [replace commas with spaces and toggle capitalization of all alphabetic characters in a string](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Strings/G_Conversion.c)  
+<!-- 5. `Conversion`: [replace commas with spaces and toggle capitalization of all alphabetic characters in a string](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Strings/G_Conversion.c)  
 6. `Palindrome`: [check if a string reads the same backwards and print YES or NO](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Strings/I_Palindrome.c)  
 7. `I Love strings` 🌟: [interleave characters of two strings and append remaining characters](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Strings/K_I_Love_strings.c)  
 8. `Subsequence String` 🌟: [determine if a string contains the subsequence "hello"](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Strings/M_Subsequence_String.c)  
