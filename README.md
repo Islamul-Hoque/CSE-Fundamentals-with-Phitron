@@ -326,8 +326,8 @@ The primary goal of this repository is to build a highly organized, comprehensiv
 5. `Max and MIN`: [define a function to find the maximum and minimum elements in an array using pointers](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Functions/G_Max_and_MIN.c)  
 6. `Average`: [define a function to calculate the average of elements in a double array](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Functions/J_Average.c)  
 7. `New Array` 🌟: [define a function to concatenate two arrays A and B into a new array C](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Functions/L_New_Array.c)  
-<!-- 8. `Distinct Numbers` 🌟: [define a function to find and print the count of unique/distinct elements in an array](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Functions/M_Distinct_Numbers.c)  
-9. `Shift Zeros`: [define a function to shift all zero elements to the end of an array](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Functions/N_Shift_Zeros.c)   -->
+8. `Distinct Numbers` 🌟: [define a function to find and print the count of unique/distinct elements in an array](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Functions/M_Distinct_Numbers.c)  
+9. `Shift Zeros`: [define a function to shift all zero elements to the end of an array](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Functions/N_Shift_Zeros.c)  
 
 
 <!-- 4th Week -->
