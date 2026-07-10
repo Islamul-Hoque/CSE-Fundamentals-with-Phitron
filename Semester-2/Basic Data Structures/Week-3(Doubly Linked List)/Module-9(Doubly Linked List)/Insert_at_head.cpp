@@ -14,6 +14,15 @@ class Node{
         }
 };
 
+void Insert_at_head(Node* &head, int val){
+    Node* newNode = new Node(val);
+
+    newNode->next = head;
+    head->prev = newNode;
+
+    head = newNode;
+}
+
 // Forward
 void Print_Forward(Node* head){
     Node* temp = head;
@@ -24,18 +33,6 @@ void Print_Forward(Node* head){
 
     cout << endl;
 }
-
-// Backword
-void Print_Backward(Node* tail){
-    Node* temp = tail;
-    while (temp != NULL){
-        cout << temp->val << " ";
-        temp = temp->prev;
-    }
-
-    cout << endl;
-}
-
 
 int main(){
     Node* head = new Node(10);
@@ -48,9 +45,9 @@ int main(){
     a->next = tail;
     tail->prev = a;
 
+    Insert_at_head(head, 100);
+    Insert_at_head(head, 200);
     Print_Forward(head);
-    Print_Backward(tail);
 
     return 0;
 }
-
