@@ -245,6 +245,8 @@ The primary goal of this repository is to build a highly organized, comprehensiv
 <!-- Catch Up Week -->
 ## <img src="https://img.icons8.com/fluency/48/crown.png" height="22" align="center" /> <a id="catchupweek"></a> Bonus Week: [C Program Catch Up Week](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week)
 
+
+<!-- Data Type & Conditions -->
 ## <img src="https://img.icons8.com/fluency/48/flow-chart.png" height="22" align="center" /> Category-1: [Data Type & Conditions](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Data-Type-Conditions)  
 1. `Say Hello With C`: [print a hello greeting message in C](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Data-Type-Conditions/A_Say_Hello_With_C.c)  
 2. `Basic Data Types`: [read and print basic data types including integer, float, and double](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Data-Type-Conditions/B_Basic_Data_Types.c)  
@@ -272,6 +274,8 @@ The primary goal of this repository is to build a highly organized, comprehensiv
 24. `The Last 2 Digits`: [calculate and print the last two digits of a product of four numbers](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Data-Type-Conditions/Y_The_last_2_digits.c)  
 25. `Hard Compare` 🌟: [compare two exponent numbers using logarithms to avoid overflow](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Data-Type-Conditions/Z_Hard_Compare.c)
 
+
+<!-- Loop -->
 ## <img src="https://img.icons8.com/fluency/48/synchronize.png" height="22" align="center" /> Category-2: [Loops](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Loops)  
 1. `1 to N`: [print numbers from 1 to N using a loop](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Loops/A_1_to_N.c)  
 2. `Fixed Password`: [prompt for password inputs until the correct one is entered](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Loops/D_Fixed_Password.c)  
@@ -281,6 +285,50 @@ The primary goal of this repository is to build a highly organized, comprehensiv
 6. `Divisors`: [find and print all divisors of a given number](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Loops/K_Divisors.c)  
 7. `Lucky Numbers` 🌟: [find and print all lucky numbers containing only digits 4 and 7 in a range](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Loops/M_Lucky_Numbers.c)  
 
+
+
+<!-- Arrays -->
+## <img src="assets/matrix.png" height="22" align="center" /> Category-3: [Arrays](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Arrays)  
+1. `Summation`: [calculate the absolute sum of elements in an array](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Arrays/A_Summation.c)  
+2. `Searching`: [find the index of a number in an array or print -1 if not found](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Arrays/B_Searching.c)  
+3. `Replacement`: [replace positive numbers with 1 and negative numbers with 2 in an array](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Arrays/C_Replacement.c)  
+<!-- 4. `Positions in array`: [print all positions in an array that store a value less than or equal to 10](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Arrays/D_Positions_in_array.c)  
+5. `Lowest Number`: [find the minimum element and its 1-based index in an array](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Arrays/E_Lowest_Number.c)  
+6. `Reversing`: [print array elements in reversed order](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Arrays/F_Reversing.c)  
+7. `Palindrome Array`: [check if an array is a palindrome](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Arrays/G_Palindrome_Array.c)  
+8. `Sorting`: [sort array elements in ascending order and print them](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Arrays/H_Sorting.c)  
+9. `Smallest Pair` 🌟: [find the minimum value of A_i + A_j + j - i for any pair of indices](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Arrays/I_Smallest_Pair.c)  
+10. `Lucky Array`: [determine if an array is lucky by checking if the frequency of its minimum element is odd](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Arrays/J_Lucky_Array.c)  
+11. `Sum Digits`: [calculate the summation of digits in a given string of digits](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Arrays/K_Sum_Digits.c)  
+12. `Replace MinMax` 🌟: [swap the minimum and maximum elements in an array](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Arrays/M_Replace_MinMax.c)   -->
+
+
+
+<!-- Strings -->
+<!-- ## <img src="assets/abc.png" height="22" align="center" /> Category-4: [Strings](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Strings)  
+1. `Compare`: [compare two strings lexicographically and print the smaller one](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Strings/C_Compare.c)  
+2. `Strings`: [print string lengths, concatenate them, and swap their first characters](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Strings/D_Strings.c)  
+3. `Count`: [calculate the sum of all digits in a given string](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Strings/E_Count.c)  
+4. `Way Too Long Words`: [abbreviate strings longer than 10 characters by replacing middle characters with count](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Strings/F_Way_Too_Long_Words.c)  
+5. `Conversion`: [replace commas with spaces and toggle capitalization of all alphabetic characters in a string](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Strings/G_Conversion.c)  
+6. `Palindrome`: [check if a string reads the same backwards and print YES or NO](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Strings/I_Palindrome.c)  
+7. `I Love strings` 🌟: [interleave characters of two strings and append remaining characters](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Strings/K_I_Love_strings.c)  
+8. `Subsequence String` 🌟: [determine if a string contains the subsequence "hello"](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Strings/M_Subsequence_String.c)  
+9. `Sort String` : [sort characters of a string in alphabetical order (commented code)](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Strings/O_Sort_String.c)   -->
+
+
+
+<!-- Functions -->
+<!-- ## <img src="assets/curly-bracket.png" height="22" align="center" /> Category-5: [Functions](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Functions)  
+1. `Add`: [define a function to scan and print the summation of two numbers](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Functions/A_Add.c)  
+2. `Print`: [define a function to print numbers from 1 to N separated by spaces](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Functions/B_Print.c)  
+3. `Prime Function` 🌟: [define a function to check if numbers are prime across multiple test cases](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Functions/D_Prime_Function.c)  
+4. `Swap`: [define a function to swap the values of two integers using pointers](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Functions/E_Swap.c)  
+5. `Max and MIN`: [define a function to find the maximum and minimum elements in an array using pointers](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Functions/G_Max_and_MIN.c)  
+6. `Average`: [define a function to calculate the average of elements in a double array](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Functions/J_Average.c)  
+7. `New Array` 🌟: [define a function to concatenate two arrays A and B into a new array C](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Functions/L_New_Array.c)  
+8. `Distinct Numbers` 🌟: [define a function to find and print the count of unique/distinct elements in an array](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Functions/M_Distinct_Numbers.c)  
+9. `Shift Zeros`: [define a function to shift all zero elements to the end of an array](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20To%20Programming%20in%20C%20Language/Catch-Up-Week/Functions/N_Shift_Zeros.c)   -->
 
 
 <!-- 4th Week -->
