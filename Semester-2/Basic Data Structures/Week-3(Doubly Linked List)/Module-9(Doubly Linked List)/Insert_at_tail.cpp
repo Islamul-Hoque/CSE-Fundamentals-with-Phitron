@@ -14,23 +14,23 @@ class Node{
         }
 };
 
-void Insert_at_head(Node* &head, Node* &tail, int val){
+void Insert_at_Tail(Node* &head, Node* &tail, int val){
     Node* newNode = new Node(val);
 
-    // NULL Check
+    // Head NULL Check 
     if(head == NULL){
         head = newNode;
         tail = newNode;
         return;
     }
 
-    newNode->next = head;
-    head->prev = newNode;
+    newNode->prev = tail;
+    tail->next = newNode;
 
-    head = newNode;
+    tail = newNode;
 }
 
-// Forward
+// Forward printing 
 void Print_Forward(Node* head){
     Node* temp = head;
     while (temp != NULL){
@@ -52,12 +52,14 @@ int main(){
     a->next = tail;
     tail->prev = a;
 
-    // NULL Check
+    // NULL 
     // Node* head = NULL;
     // Node* tail = NULL;
 
-    Insert_at_head(head, tail, 100);
-    Insert_at_head(head, tail, 200);
+    Insert_at_Tail(head, tail, 100);
+    Insert_at_Tail(head, tail, 200);
+    Insert_at_Tail(head, tail, 300);
+
     Print_Forward(head);
 
     return 0;
