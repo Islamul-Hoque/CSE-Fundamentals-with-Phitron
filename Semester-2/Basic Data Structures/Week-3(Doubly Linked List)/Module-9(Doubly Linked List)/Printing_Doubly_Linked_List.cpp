@@ -1,55 +1,55 @@
-// #include <bits/stdc++.h>
-// using namespace std;
+#include <bits/stdc++.h>
+using namespace std;
 
-// class Node{
-//     public:
-//         int val;
-//         Node* next;
-//         Node* prev;
+class Node{
+    public:
+        int val;
+        Node* next;
+        Node* prev;
 
-//         Node(int val){
-//             this->val = val;
-//             this->next = NULL;
-//             this->prev = NULL;
-//         }
-// };
+        Node(int val){
+            this->val = val;
+            this->next = NULL;
+            this->prev = NULL;
+        }
+};
 
-// // Forward
-// void Print_Forward(Node* head){
-//     Node* temp = head;
-//     while (temp != NULL){
-//         cout << temp->val << " ";
-//         temp = temp->next;
-//     }
+// Forward
+void Print_Forward(Node* head){
+    Node* temp = head;
+    while (temp != NULL){
+        cout << temp->val << " ";
+        temp = temp->next;
+    }
 
-//     cout << endl;
-// }
+    cout << endl;
+}
 
-// // Backword
-// void Print_Backward(Node* tail){
-//     Node* temp = tail;
-//     while (temp != NULL){
-//         cout << temp->val << " ";
-//         temp = temp->prev;
-//     }
+// Backword
+void Print_Backward(Node* tail){
+    Node* temp = tail;
+    while (temp != NULL){
+        cout << temp->val << " ";
+        temp = temp->prev;
+    }
 
-//     cout << endl;
-// }
+    cout << endl;
+}
 
 
-// int main(){
-//     Node* head = new Node(10);
-//     Node* a = new Node(20);
-//     Node* tail = new Node(30);
+int main(){
+    Node* head = new Node(10);
+    Node* a = new Node(20);
+    Node* tail = new Node(30);
 
-//     head->next = a;
-//     a->prev = head;
+    head->next = a;
+    a->prev = head;
 
-//     a->next = tail;
-//     tail->prev = a;
+    a->next = tail;
+    tail->prev = a;
 
-//     Print_Forward(head);
-//     Print_Backward(tail);
+    Print_Forward(head);
+    Print_Backward(tail);
 
-//     return 0;
-// }
+    return 0;
+}
