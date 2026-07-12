@@ -14,10 +14,9 @@ class Node{
         }
 };
 
-// Forward printing 
+// Forward
 void Print_Forward(Node* head){
     Node* temp = head;
-
     while (temp != NULL){
         cout << temp->val << " ";
         temp = temp->next;
@@ -26,20 +25,18 @@ void Print_Forward(Node* head){
     cout << endl;
 }
 
-void Insert_at_Tail(Node* &head, Node* &tail, int val){
-    Node* newNode = new Node(val);
+void Delete_at_Tail(Node* &head, Node* &tail){
+    Node* deleteNode = tail;
+    tail = tail->prev;
+    delete deleteNode;
 
-    // Head NULL Check 
-    if(head == NULL){
-        head = newNode;
-        tail = newNode;
+    // NULL Check 
+    if(tail == NULL){
+        head = NULL; 
         return;
     }
 
-    newNode->prev = tail;
-    tail->next = newNode;
-
-    tail = newNode;
+    tail->next = NULL;
 }
 
 int main(){
@@ -53,16 +50,14 @@ int main(){
     a->next = tail;
     tail->prev = a;
 
-    // NULL 
+    // NULL
     // Node* head = NULL;
     // Node* tail = NULL;
 
-    Insert_at_Tail(head, tail, 100);
-    Insert_at_Tail(head, tail, 200);
-    Insert_at_Tail(head, tail, 300);
-
+    Delete_at_Tail(head, tail);
+    Delete_at_Tail(head, tail);
+    // Delete_at_Tail(head, tail);
     Print_Forward(head);
 
     return 0;
 }
-

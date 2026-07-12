@@ -1,2 +1,3 @@
-00);
-    // Insert_at_any_pos(head, 3, 30
+
+    // Delete_at_Tail(head, tail);
+    // Delete_at_Tail(head, ta

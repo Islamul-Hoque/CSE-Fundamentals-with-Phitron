@@ -30,6 +30,7 @@ void Delete_at_head(Node* &head, Node* tail){
     head = head->next;
     delete deleteNode;
 
+    // NULL Check 
     if(head == NULL){
         tail = NULL; 
         return;

@@ -26,7 +26,7 @@ void Print_Forward(Node* head){
     cout << endl;
 }
 
-void Insert_at_Tail(Node* &head, Node* &tail, int val){
+void Insert_at_Tail_Input(Node* &head, Node* &tail, int val){
     Node* newNode = new Node(val);
 
     // Head NULL Check 
@@ -43,23 +43,17 @@ void Insert_at_Tail(Node* &head, Node* &tail, int val){
 }
 
 int main(){
-    Node* head = new Node(10);
-    Node* a = new Node(20);
-    Node* tail = new Node(30);
-
-    head->next = a;
-    a->prev = head;
-
-    a->next = tail;
-    tail->prev = a;
 
     // NULL 
-    // Node* head = NULL;
-    // Node* tail = NULL;
+    Node* head = NULL;
+    Node* tail = NULL;
 
-    Insert_at_Tail(head, tail, 100);
-    Insert_at_Tail(head, tail, 200);
-    Insert_at_Tail(head, tail, 300);
+    int val;
+    while(1){
+        cin >> val;
+        if(val == -1) break;
+        Insert_at_Tail_Input(head, tail, val);
+    }
 
     Print_Forward(head);
 
