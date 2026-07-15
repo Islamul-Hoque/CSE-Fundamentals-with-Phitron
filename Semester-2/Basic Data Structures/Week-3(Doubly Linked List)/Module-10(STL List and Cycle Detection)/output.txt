@@ -1,5 +1,7 @@
-First element: 1
-Last element: 5
-Element at index 2: 3
-Element pointed by begin(): 1
-Last element using end(): 5
+50
+40
+30
+20
+10
+Head: 50
+Tail: 10
