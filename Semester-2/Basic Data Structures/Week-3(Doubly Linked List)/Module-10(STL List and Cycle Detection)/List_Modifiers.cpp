@@ -91,6 +91,13 @@ int main() {
         cout << val << " ";
     cout << endl;
 
+    // erase() - remove elements from index 2 to index 3
+    l3.erase(next(l3.begin(), 2), next(l3.begin(), 4));
+
+    cout << "After erase(index 2 to 3): ";
+    for (int val : l3)
+        cout << val << " ";
+    cout << endl;
 
     return 0;
 }
