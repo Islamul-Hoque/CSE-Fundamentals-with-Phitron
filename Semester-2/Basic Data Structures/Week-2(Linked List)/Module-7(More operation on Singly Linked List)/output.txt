@@ -1,5 +1,0 @@
-Tail before deletion: 40
-90
-80
-30
-Tail after deletion: 30
