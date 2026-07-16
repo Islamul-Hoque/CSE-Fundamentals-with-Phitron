@@ -1,6 +1,8 @@
 // vector => dynamic array (contiguous memory)
 // list   => doubly linked list (non-contiguous memory)
 
+// Docs: https://docs.google.com/document/d/1IbS-qmFx6oRO-GyIG55yavdDUHpfHTNM/edit
+
 #include <bits/stdc++.h>
 using namespace std;
 

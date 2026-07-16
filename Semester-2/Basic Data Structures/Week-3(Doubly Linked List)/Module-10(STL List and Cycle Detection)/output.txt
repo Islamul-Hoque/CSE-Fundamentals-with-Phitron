@@ -1,0 +1,10 @@
+Original List (l): 10 20 30 40 50 
+Copied List (l2): 10 20 30 40 50 
+After assign() to l3: 10 20 30 40 50 
+List created using range constructor (l4): 10 20 30 40 50 
+After push_back() and push_front(): 400 100 200 300 100 
+After pop_back() and pop_front(): 100 200 300 
+Element at index 2 of l: 30
+Before insert into l5: 100 200 300 
+After inserting 9000 at index 2: 100 200 9000 300 
+After inserting l6 into l3 at index 2: 10 20 2 4 30 40 50 
