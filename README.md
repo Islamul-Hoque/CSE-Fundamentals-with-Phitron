@@ -539,7 +539,7 @@ The primary goal of this repository is to build a highly organized, comprehensiv
 
 ## <img src="https://img.icons8.com/color/48/tree-structure.png" height="28" align="center" /> Basic Data Structures
 
-### <img src="https://img.icons8.com/color/48/calendar--v1.png" height="22" align="center" /> Weeks: [Week-1](#ds-week-1)  | [Week-2](#ds-week-2) 
+### <img src="https://img.icons8.com/color/48/calendar--v1.png" height="22" align="center" /> Weeks: [Week-1](#ds-week-1)  | [Week-2](#ds-week-2) | [Week-3](#ds-week-3) 
 
 ### <img src="https://img.icons8.com/color/48/graduation-cap.png" height="22" align="center" /> Assignments & Exams: [Assignment-1](#ds-assignment-1) | [Assignment-2](#ds-assignment-2)  
 
@@ -635,6 +635,45 @@ The primary goal of this repository is to build a highly organized, comprehensiv
 3. `Same to Same`: [verify if two singly linked lists are identical in terms of size and value sequence](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Data%20Structures/Assignment-2/Same_to_Same.cpp)  
 4. `Queries`: [perform dynamic operations including head insertion, tail insertion, and element deletion on multiple queries](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Data%20Structures/Assignment-2/Queries.cpp)  
 5. `Remove Duplicate`: [remove duplicate values from an unsorted singly linked list using an inner-outer pointer technique](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/All%20Assignment/Data%20Structures/Assignment-2/Remove_Duplicate.cpp)  
+
+
+
+<!-- Data Structure || Week-3 -->
+<!-- week-3 -->
+## <img src="https://img.icons8.com/fluency/48/calendar.png" height="22" align="center" /> <a id="ds-week-3"></a>Week-3: [Doubly Linked List](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-2/Basic%20Data%20Structures/Week-3(Doubly%20Linked%20List))  
+
+<!-- Week-3 || Module-9 -->
+### <img src="https://img.icons8.com/ios-filled/50/fbbf24/book.png" height="22" align="center" /> Module-9: [Doubly Linked List](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-2/Basic%20Data%20Structures/Week-3(Doubly%20Linked%20List)/Module-9(Doubly%20Linked%20List)) 
+1. `Doubly Linked List`: [create and link basic nodes manually with next and prev pointers in a doubly linked list](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-3(Doubly%20Linked%20List)/Module-9(Doubly%20Linked%20List)/Doubly_Linked_List.cpp)  
+2. `Printing Doubly Linked List`: [traverse and print a doubly linked list in forward order using head and backward order using tail](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-3(Doubly%20Linked%20List)/Module-9(Doubly%20Linked%20List)/Printing_Doubly_Linked_List.cpp)  
+3. `Insert at head`: [insert a new node at the head position of a doubly linked list in O(1) time](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-3(Doubly%20Linked%20List)/Module-9(Doubly%20Linked%20List)/Insert_at_head.cpp)  
+4. `Insert at tail`: [insert a new node at the tail position of a doubly linked list in O(1) time](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-3(Doubly%20Linked%20List)/Module-9(Doubly%20Linked%20List)/Insert_at_tail.cpp)  
+5. `Insert at any pos`: [insert a new node at any given index position inside a doubly linked list](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-3(Doubly%20Linked%20List)/Module-9(Doubly%20Linked%20List)/Insert_at_any_pos.cpp)  
+6. `Input Doubly linked list`: [take inputs continuously until -1 to construct a doubly linked list](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-3(Doubly%20Linked%20List)/Module-9(Doubly%20Linked%20List)/Input_Doubly_linked_list.cpp)  
+7. `Delete at head`: [delete the head node of a doubly linked list and update pointers](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-3(Doubly%20Linked%20List)/Module-9(Doubly%20Linked%20List)/Delete_at_head.cpp)  
+8. `Delete at tail`: [delete the tail node of a doubly linked list and update pointers](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-3(Doubly%20Linked%20List)/Module-9(Doubly%20Linked%20List)/Delete_at_tail.cpp)  
+9. `Delete at any position`: [delete a node from a specified index position in a doubly linked list](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-3(Doubly%20Linked%20List)/Module-9(Doubly%20Linked%20List)/Delete_at_any_position.cpp)  
+10. `Quiz`: [solve quiz questions covering doubly linked list node structure, traversals, and operation complexities](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-3(Doubly%20Linked%20List)/Module-9(Doubly%20Linked%20List)/Quiz.cpp)  
+
+
+<!-- Week-3 || Module-10 -->
+<!-- ### <img src="https://img.icons8.com/ios-filled/50/fbbf24/book.png" height="22" align="center" /> Module-10: [STL List and Cycle Detection](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-2/Basic%20Data%20Structures/Week-3(Doubly%20Linked%20List)/Module-10(STL%20List%20and%20Cycle%20Detection)) 
+
+1. `List Constructors`: [demonstrate various STL list constructors, array/vector copies, and iterators](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-3(Doubly%20Linked%20List)/Module-10(STL%20List%20and%20Cycle%20Detection)/List_Constructors.cpp)  
+2. `List Capacity`: [explore STL list capacity functions like size(), resize(), clear(), and empty()](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-3(Doubly%20Linked%20List)/Module-10(STL%20List%20and%20Cycle%20Detection)/List_Capacity.cpp)  
+3. `List Modifiers`: [modify STL lists using push_back(), push_front(), pop_back(), pop_front(), insert(), erase(), replace(), and find()](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-3(Doubly%20Linked%20List)/Module-10(STL%20List%20and%20Cycle%20Detection)/List_Modifiers.cpp)  
+4. `List element access and iterators`: [access STL list elements using front(), back(), next(), begin(), and end() iterators](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-3(Doubly%20Linked%20List)/Module-10(STL%20List%20and%20Cycle%20Detection)/List_element_access_and_iterators.cpp)  
+5. `List operation functions`: [perform operations on STL list such as remove(), sort(), unique(), and reverse()](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-3(Doubly%20Linked%20List)/Module-10(STL%20List%20and%20Cycle%20Detection)/List_operation_functions.cpp)  
+6. `Reverse singly linked list`: [reverse a singly linked list recursively using head and tail pointers](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-3(Doubly%20Linked%20List)/Module-10(STL%20List%20and%20Cycle%20Detection)/Reverse_singly_linked_list.cpp)  
+7. `Reverse Doubly linked list`: [reverse a doubly linked list using two-pointer swap technique](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-3(Doubly%20Linked%20List)/Module-10(STL%20List%20and%20Cycle%20Detection)/Reverse_Doubly_linked_list.cpp)   -->
+
+
+
+
+
+
+
+
 
 
 ## 🚀 How to Run

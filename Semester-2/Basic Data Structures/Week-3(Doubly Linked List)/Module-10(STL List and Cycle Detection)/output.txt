@@ -1,4 +1,4 @@
-Original List: 10 20 30 40 50 
-After Reverse: 50 40 30 20 10 
-Head after reverse: 50
+Original List: 10 20 30 40 
+After Reverse: 40 30 20 10 
+Head after reverse: 40
 Tail after reverse: 10
