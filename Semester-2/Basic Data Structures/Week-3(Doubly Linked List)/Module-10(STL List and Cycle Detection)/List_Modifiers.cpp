@@ -99,5 +99,26 @@ int main() {
         cout << val << " ";
     cout << endl;
 
+    // replace() - replace all 20 with 100
+    list<int> l7 = {10, 20, 40, 20, 30, 40, 20};
+
+    replace(l7.begin(), l7.end(), 20, 100);
+
+    cout << "After replace(20 -> 100): ";
+    for (int val : l7)
+        cout << val << " ";
+    cout << endl;
+
+
+    // find() - find an element
+    auto it = find(l7.begin(), l7.end(), 100);
+
+    if (it == l7.end())
+        cout << "100 Not Found" << endl;
+    else
+        cout << "100 Found" << endl;
+
     return 0;
 }
+
+

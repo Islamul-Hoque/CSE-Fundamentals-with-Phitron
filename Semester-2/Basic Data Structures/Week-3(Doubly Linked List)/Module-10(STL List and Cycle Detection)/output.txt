@@ -9,3 +9,5 @@ Before insert into l5: 100 200 300
 After inserting 9000 at index 2: 100 200 9000 300 
 After inserting l6 into l3 at index 2: 10 20 2 4 30 40 50 
 After erase(index 2 to 3): 10 20 30 40 50 
+After replace(20 -> 100): 10 100 40 100 30 40 100 
+100 Found
