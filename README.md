@@ -657,7 +657,7 @@ The primary goal of this repository is to build a highly organized, comprehensiv
 
 
 <!-- Week-3 || Module-10 -->
-<!-- ### <img src="https://img.icons8.com/ios-filled/50/fbbf24/book.png" height="22" align="center" /> Module-10: [STL List and Cycle Detection](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-2/Basic%20Data%20Structures/Week-3(Doubly%20Linked%20List)/Module-10(STL%20List%20and%20Cycle%20Detection)) 
+### <img src="https://img.icons8.com/ios-filled/50/fbbf24/book.png" height="22" align="center" /> Module-10: [STL List and Cycle Detection](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-2/Basic%20Data%20Structures/Week-3(Doubly%20Linked%20List)/Module-10(STL%20List%20and%20Cycle%20Detection)) 
 
 1. `List Constructors`: [demonstrate various STL list constructors, array/vector copies, and iterators](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-3(Doubly%20Linked%20List)/Module-10(STL%20List%20and%20Cycle%20Detection)/List_Constructors.cpp)  
 2. `List Capacity`: [explore STL list capacity functions like size(), resize(), clear(), and empty()](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-3(Doubly%20Linked%20List)/Module-10(STL%20List%20and%20Cycle%20Detection)/List_Capacity.cpp)  
@@ -665,7 +665,7 @@ The primary goal of this repository is to build a highly organized, comprehensiv
 4. `List element access and iterators`: [access STL list elements using front(), back(), next(), begin(), and end() iterators](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-3(Doubly%20Linked%20List)/Module-10(STL%20List%20and%20Cycle%20Detection)/List_element_access_and_iterators.cpp)  
 5. `List operation functions`: [perform operations on STL list such as remove(), sort(), unique(), and reverse()](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-3(Doubly%20Linked%20List)/Module-10(STL%20List%20and%20Cycle%20Detection)/List_operation_functions.cpp)  
 6. `Reverse singly linked list`: [reverse a singly linked list recursively using head and tail pointers](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-3(Doubly%20Linked%20List)/Module-10(STL%20List%20and%20Cycle%20Detection)/Reverse_singly_linked_list.cpp)  
-7. `Reverse Doubly linked list`: [reverse a doubly linked list using two-pointer swap technique](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-3(Doubly%20Linked%20List)/Module-10(STL%20List%20and%20Cycle%20Detection)/Reverse_Doubly_linked_list.cpp)   -->
+7. `Reverse Doubly linked list`: [reverse a doubly linked list using two-pointer swap technique](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-2/Basic%20Data%20Structures/Week-3(Doubly%20Linked%20List)/Module-10(STL%20List%20and%20Cycle%20Detection)/Reverse_Doubly_linked_list.cpp)  
 
 
 
