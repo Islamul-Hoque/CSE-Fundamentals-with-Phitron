@@ -1,3 +1,7 @@
+
+// Quiz Explanation: https://docs.google.com/document/d/1vVDkOOzElWqzCeuB_0KDHVFvJJKjpUTG3A4Ckfue6mA/edit?tab=t.0
+
+
 Q-1: What is the purpose of a C++ list?
 Ans: To store elements in a doubly linked-list data structure.
 
@@ -63,3 +67,9 @@ list<int> myList;
         cout << "List is not empty";
 
     Output: List is empty
+
+
+// Practice Problem link:
+// https://docs.google.com/document/d/163YJ5Nospvog3EAhix7L80YkZ1zvdTul9A-loYf4RsI/edit?usp=sharing
+// https://docs.google.com/document/d/1LCWAV1lnIctxHEYYnX7IntXxMu5ps9bhydEW2CofmxM/edit?tab=t.0
+
